@@ -1,0 +1,2530 @@
+{
+  "generated": "2026-09-11",
+  "tools": {
+    "zapier": {
+      "name": "Zapier",
+      "url": "https://zapier.com/pricing",
+      "snapshots": 18,
+      "first": "2025-05-04",
+      "last": "2026-09-11",
+      "periods": [
+        {
+          "key": "$0/mo $19 $20/mo $50/mo $69/mo",
+          "from": "2025-05-04",
+          "until": "2025-09-04",
+          "confirmations": 5,
+          "source": "https://web.archive.org/web/20250504035157/https://zapier.com/pricing",
+          "prices": [
+            "$0/mo",
+            "$19",
+            "$20/mo",
+            "$50/mo",
+            "$69/mo"
+          ],
+          "plans": [
+            "Enterprise-grade security",
+            "By team",
+            "Microsoft Teams",
+            "Enterprise",
+            "Solutions By team",
+            "Best for basic use Free",
+            "Free forever",
+            "Try it free"
+          ]
+        },
+        {
+          "key": "$0/mo $13 $19 $33 $66 $69/mo",
+          "from": "2025-10-01",
+          "until": "2026-06-01",
+          "confirmations": 9,
+          "source": "https://web.archive.org/web/20251001054806/https://zapier.com/pricing",
+          "prices": [
+            "$0/mo",
+            "$13",
+            "$19",
+            "$33",
+            "$66",
+            "$69/mo"
+          ],
+          "plans": [
+            "Enterprise-grade security",
+            "By team",
+            "Empower your HR team with AI automation",
+            "Microsoft Teams",
+            "Enterprise",
+            "Solutions By team",
+            "Free",
+            "Free forever"
+          ]
+        },
+        {
+          "key": "$0/month $13.33/month $160 $19.99/month $33.33/month $400 $66.67/month $69/month $800",
+          "from": "2026-07-01",
+          "until": "2026-09-11",
+          "confirmations": 4,
+          "source": "https://web.archive.org/web/20260701130346/https://zapier.com/pricing",
+          "prices": [
+            "$0/month",
+            "$13.33/month",
+            "$160",
+            "$19.99/month",
+            "$33.33/month",
+            "$400",
+            "$66.67/month",
+            "$69/month",
+            "$800"
+          ],
+          "plans": [
+            "Enterprise-grade security",
+            "By team",
+            "Empower your HR team with AI automation",
+            "Microsoft Teams",
+            "Enterprise",
+            "Solutions By team",
+            "Try it free",
+            "Free"
+          ]
+        }
+      ]
+    },
+    "make": {
+      "name": "Make",
+      "url": "https://www.make.com/en/pricing",
+      "snapshots": 2,
+      "first": "2024-01-28",
+      "last": "2025-02-08",
+      "periods": [
+        {
+          "key": "$0/mo $16/mo $29/mo $9/mo",
+          "from": "2024-01-28",
+          "until": "2025-02-08",
+          "confirmations": 2,
+          "source": "https://web.archive.org/web/20240128175311/https://www.make.com/en/pricing",
+          "prices": [
+            "$0/mo",
+            "$16/mo",
+            "$29/mo",
+            "$9/mo"
+          ],
+          "plans": [
+            "Log in Get started free",
+            "Enterprise",
+            "Get started free Legacy (Integromat)",
+            "Scale as you grow",
+            "Free",
+            "Free but worth it",
+            "Free includes:",
+            "Core"
+          ]
+        }
+      ]
+    },
+    "n8n": {
+      "name": "n8n",
+      "url": "https://n8n.io/pricing/",
+      "snapshots": 22,
+      "first": "2024-01-08",
+      "last": "2026-09-11",
+      "periods": [
+        {
+          "key": "$5",
+          "from": "2024-01-08",
+          "until": "2025-03-01",
+          "confirmations": 15,
+          "source": "https://web.archive.org/web/20240108091852/https://n8n.io/pricing/",
+          "prices": [
+            "$5"
+          ],
+          "plans": [
+            "Enterprise",
+            "Starter",
+            "Pro",
+            "unlimited steps",
+            "and unlimited test ones",
+            "Unlimited users",
+            "Start free trial",
+            "Everything in Starter plan, plus:"
+          ]
+        },
+        {
+          "key": "$5 €120/month €20 €24 €50 €50/month €60",
+          "from": "2025-04-04",
+          "until": "2025-04-04",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20250404165627/https://n8n.io/pricing/",
+          "prices": [
+            "$5",
+            "€120/month",
+            "€20",
+            "€24",
+            "€50",
+            "€50/month",
+            "€60"
+          ],
+          "plans": [
+            "Enterprise",
+            "Starter",
+            "with unlimited steps",
+            "and unlimited test ones",
+            "Unlimited users",
+            "Start free trial",
+            "Pro",
+            "Everything in Starter plan, plus:"
+          ]
+        },
+        {
+          "key": "$120/month $20 $24 $5 $50 $50/month $60",
+          "from": "2025-05-09",
+          "until": "2025-08-01",
+          "confirmations": 4,
+          "source": "https://web.archive.org/web/20250509172626/https://n8n.io/pricing/",
+          "prices": [
+            "$120/month",
+            "$20",
+            "$24",
+            "$5",
+            "$50",
+            "$50/month",
+            "$60"
+          ],
+          "plans": [
+            "Enterprise",
+            "Starter",
+            "with unlimited steps",
+            "and unlimited test ones",
+            "Unlimited users",
+            "Start free trial",
+            "Pro",
+            "Everything in Starter plan, plus:"
+          ]
+        },
+        {
+          "key": "$20 $24 $5 $50 $60 €667 €800",
+          "from": "2025-09-04",
+          "until": "2025-09-04",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20250904233538/https://n8n.io/pricing/",
+          "prices": [
+            "$20",
+            "$24",
+            "$5",
+            "$50",
+            "$60",
+            "€667",
+            "€800"
+          ],
+          "plans": [
+            "Enterprise",
+            "Starter",
+            "Unlimited users",
+            "Start free trial*",
+            "Pro",
+            "Everything in Starter plan, plus:",
+            "Business",
+            "Everything in Community Edition, plus:"
+          ]
+        },
+        {
+          "key": "20€/mo 50€/mo 667€/mo",
+          "from": "2026-09-11",
+          "until": "2026-09-11",
+          "confirmations": 1,
+          "source": "https://n8n.io/pricing/",
+          "prices": [
+            "20€/mo",
+            "50€/mo",
+            "667€/mo"
+          ],
+          "plans": [
+            "Enterprise",
+            "Starter",
+            "Unlimited users",
+            "Pro",
+            "Everything in Starter plan, plus:",
+            "Business",
+            "Start free trial",
+            "Everything in Pro plan, plus:"
+          ]
+        }
+      ]
+    },
+    "activepieces": {
+      "name": "Activepieces",
+      "url": "https://www.activepieces.com/pricing",
+      "snapshots": 28,
+      "first": "2024-01-09",
+      "last": "2026-09-11",
+      "periods": [
+        {
+          "key": "$0 $1.5 $10/user $10permonth $249 $299/mo $299permonth $5/user $5permonth",
+          "from": "2024-01-09",
+          "until": "2024-01-09",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20240109114505/https://www.activepieces.com/pricing",
+          "prices": [
+            "$0",
+            "$1.5",
+            "$10/user",
+            "$10permonth",
+            "$249",
+            "$299/mo",
+            "$299permonth",
+            "$5/user",
+            "$5permonth"
+          ],
+          "plans": [
+            "Start free",
+            "Pro",
+            "$ 0 free",
+            "Enterprise",
+            "Unlimited private pieces",
+            "free",
+            "Unlimited",
+            "Basic"
+          ]
+        },
+        {
+          "key": "$1",
+          "from": "2024-04-25",
+          "until": "2024-04-25",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20240425153432/https://www.activepieces.com/pricing",
+          "prices": [
+            "$1"
+          ],
+          "plans": [
+            "Login Start free Open main menu",
+            "Start free"
+          ]
+        },
+        {
+          "key": "$1 $10 $1200permonth $99peruser",
+          "from": "2024-05-08",
+          "until": "2024-05-08",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20240508042021/https://www.activepieces.com/pricing",
+          "prices": [
+            "$1",
+            "$10",
+            "$1200permonth",
+            "$99peruser"
+          ],
+          "plans": [
+            "Login Start free Open main menu",
+            "Pro",
+            "Free",
+            "🎉 Free 1,000 tasks per month",
+            "Start free 1 project",
+            "Unlimited flows",
+            "Unlimited flow steps",
+            "Enterprise"
+          ]
+        },
+        {
+          "key": "$1 $500permonth",
+          "from": "2024-06-24",
+          "until": "2024-06-24",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20240624012916/https://www.activepieces.com/pricing",
+          "prices": [
+            "$1",
+            "$500permonth"
+          ],
+          "plans": [
+            "Login Start free Open main menu",
+            "Pro",
+            "Free",
+            "🎉 Free 1,000 tasks per month",
+            "Start free 1 project",
+            "All standard pieces",
+            "Unlimited flows",
+            "Enterprise"
+          ]
+        },
+        {
+          "key": "$1 $1200permonth",
+          "from": "2024-07-18",
+          "until": "2025-06-14",
+          "confirmations": 9,
+          "source": "https://web.archive.org/web/20240718085453/https://www.activepieces.com/pricing",
+          "prices": [
+            "$1",
+            "$1200permonth"
+          ],
+          "plans": [
+            "Login Start free Open main menu",
+            "Pro",
+            "Free",
+            "🎉 Free 1,000 tasks per month",
+            "Start free 1 project",
+            "All standard pieces",
+            "Unlimited flows",
+            "Enterprise"
+          ]
+        },
+        {
+          "key": "$0/mo $150/mo $25/mo",
+          "from": "2025-07-10",
+          "until": "2025-10-06",
+          "confirmations": 4,
+          "source": "https://web.archive.org/web/20250710110447/https://www.activepieces.com/pricing",
+          "prices": [
+            "$0/mo",
+            "$150/mo",
+            "$25/mo"
+          ],
+          "plans": [
+            "Stop counting, it&#39;s unlimited.",
+            "Free",
+            "Plus",
+            "Try free",
+            "✨ Unlimited tasks ?",
+            "Everything in Free",
+            "Unlimited MCP servers",
+            "Unlimited tables"
+          ]
+        },
+        {
+          "key": "$5",
+          "from": "2025-11-22",
+          "until": "2026-07-12",
+          "confirmations": 8,
+          "source": "https://web.archive.org/web/20251122104643/https://www.activepieces.com/pricing",
+          "prices": [
+            "$5"
+          ],
+          "plans": [
+            "Standard",
+            "Free",
+            "Start free",
+            "10 free active flows",
+            "Unlimited runs",
+            "Unlimited MCP servers",
+            "Unlimited tables",
+            "Team & Personal Projects"
+          ]
+        },
+        {
+          "key": "$0 $0.007 $16 $16/mo $166 $166/mo $25/user $36",
+          "from": "2026-08-13",
+          "until": "2026-09-01",
+          "confirmations": 2,
+          "source": "https://web.archive.org/web/20260813131043/https://www.activepieces.com/pricing",
+          "prices": [
+            "$0",
+            "$0.007",
+            "$16",
+            "$16/mo",
+            "$166",
+            "$166/mo",
+            "$25/user",
+            "$36"
+          ],
+          "plans": [
+            "Login Talk to sales Start free",
+            "Talk to sales Start free",
+            "Monthly Annual 2 months free",
+            "Free",
+            "Free forever, no card",
+            "Unlimited flows",
+            "Plus",
+            "Everything in Free, plus"
+          ]
+        },
+        {
+          "key": "$0 $16 $16/mo $166 $166/mo",
+          "from": "2026-09-11",
+          "until": "2026-09-11",
+          "confirmations": 1,
+          "source": "https://www.activepieces.com/pricing",
+          "prices": [
+            "$0",
+            "$16",
+            "$16/mo",
+            "$166",
+            "$166/mo"
+          ],
+          "plans": [
+            "Free",
+            "Free forever, no card",
+            "Unlimited flows",
+            "Recommended Plus",
+            "Everything in Free, plus",
+            "Team",
+            "For growing teams",
+            "Everything in Plus, plus"
+          ]
+        }
+      ]
+    },
+    "pipedream": {
+      "name": "Pipedream",
+      "url": "https://pipedream.com/pricing",
+      "snapshots": 24,
+      "first": "2024-01-12",
+      "last": "2026-09-11",
+      "periods": [
+        {
+          "key": "$0/mo $1188 $19/mo $228 $49/mo $588 $99/mo",
+          "from": "2024-01-12",
+          "until": "2024-03-13",
+          "confirmations": 3,
+          "source": "https://web.archive.org/web/20240112084134/https://pipedream.com/pricing",
+          "prices": [
+            "$0/mo",
+            "$1188",
+            "$19/mo",
+            "$228",
+            "$49/mo",
+            "$588",
+            "$99/mo"
+          ],
+          "plans": [
+            "Free",
+            "Choose Free",
+            "Unlimited users",
+            "Basic",
+            "Choose Basic",
+            "access to advanced features.",
+            "Everything in Free, plus:",
+            "Advanced"
+          ]
+        },
+        {
+          "key": "$0/mo $1188 $199/mo $2388 $29/mo $348 $99/mo",
+          "from": "2024-04-13",
+          "until": "2024-04-13",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20240413161108/https://pipedream.com/pricing",
+          "prices": [
+            "$0/mo",
+            "$1188",
+            "$199/mo",
+            "$2388",
+            "$29/mo",
+            "$348",
+            "$99/mo"
+          ],
+          "plans": [
+            "Free",
+            "Choose Free",
+            "Unlimited users",
+            "Basic",
+            "Choose Basic",
+            "access to advanced features.",
+            "Everything in Free, plus:",
+            "Advanced"
+          ]
+        },
+        {
+          "key": "$0/mo $29/mo $348 $49/mo $588",
+          "from": "2024-05-03",
+          "until": "2025-04-09",
+          "confirmations": 10,
+          "source": "https://web.archive.org/web/20240503173459/https://pipedream.com/pricing",
+          "prices": [
+            "$0/mo",
+            "$29/mo",
+            "$348",
+            "$49/mo",
+            "$588"
+          ],
+          "plans": [
+            "Free",
+            "Choose Free",
+            "Unlimited users",
+            "Basic",
+            "Choose Basic",
+            "access to advanced features.",
+            "Everything in Free, plus:",
+            "Advanced"
+          ]
+        },
+        {
+          "key": "$0/mo $1188 $2 $29/mo $348 $49/mo $588 $99/mo",
+          "from": "2025-05-09",
+          "until": "2026-09-11",
+          "confirmations": 10,
+          "source": "https://web.archive.org/web/20250509233545/https://pipedream.com/pricing",
+          "prices": [
+            "$0/mo",
+            "$1188",
+            "$2",
+            "$29/mo",
+            "$348",
+            "$49/mo",
+            "$588",
+            "$99/mo"
+          ],
+          "plans": [
+            "Free",
+            "Choose Free",
+            "Unlimited workflow testing",
+            "Basic",
+            "Choose Basic",
+            "access to advanced features.",
+            "Everything in Free, plus:",
+            "Advanced"
+          ]
+        }
+      ]
+    },
+    "gumloop": {
+      "name": "Gumloop",
+      "url": "https://www.gumloop.com/pricing",
+      "snapshots": 26,
+      "first": "2024-06-12",
+      "last": "2026-09-11",
+      "periods": [
+        {
+          "key": "$0/month $297/month $97/month",
+          "from": "2024-06-12",
+          "until": "2024-07-16",
+          "confirmations": 2,
+          "source": "https://web.archive.org/web/20240612175101/https://www.gumloop.com/pricing",
+          "prices": [
+            "$0/month",
+            "$297/month",
+            "$97/month"
+          ],
+          "plans": [
+            "Free",
+            "Standard AI Calls ? ( 300 )",
+            "Advanced AI Calls ? ( 50 )",
+            "Premium Node Runs ? ( 50 )",
+            "Starter",
+            "Standard AI Calls ? ( Unlimited )",
+            "Advanced AI Calls ? ( 600 )",
+            "Premium Node Runs ? ( Unlimited )"
+          ]
+        },
+        {
+          "key": "$0/month $297/month $97/month",
+          "from": "2024-10-15",
+          "until": "2024-12-02",
+          "confirmations": 2,
+          "source": "https://web.archive.org/web/20241015070159/https://www.gumloop.com/pricing",
+          "prices": [
+            "$0/month",
+            "$297/month",
+            "$97/month"
+          ],
+          "plans": [
+            "Free",
+            "Starter",
+            "Pro",
+            "Enterprise",
+            "Not included in Free",
+            "Not included in Starter",
+            "Included in Starter",
+            "Included in Pro"
+          ]
+        },
+        {
+          "key": "$0/month $17 $297/month $97/month",
+          "from": "2025-01-14",
+          "until": "2025-03-06",
+          "confirmations": 3,
+          "source": "https://web.archive.org/web/20250114202537/https://www.gumloop.com/pricing",
+          "prices": [
+            "$0/month",
+            "$17",
+            "$297/month",
+            "$97/month"
+          ],
+          "plans": [
+            "Free",
+            "Starter",
+            "Pro",
+            "Enterprise",
+            "Not included in Free",
+            "Included in Starter",
+            "Included in Pro",
+            "Included in Enterprise"
+          ]
+        },
+        {
+          "key": "$0/month $297/month $97/month",
+          "from": "2025-04-20",
+          "until": "2025-08-07",
+          "confirmations": 5,
+          "source": "https://web.archive.org/web/20250420071112/https://www.gumloop.com/pricing",
+          "prices": [
+            "$0/month",
+            "$297/month",
+            "$97/month"
+          ],
+          "plans": [
+            "Free",
+            "Starter",
+            "Pro",
+            "Enterprise",
+            "Not included in Free",
+            "Included in Starter",
+            "Included in Pro",
+            "Included in Enterprise"
+          ]
+        },
+        {
+          "key": "$244/month $37/month",
+          "from": "2025-09-08",
+          "until": "2026-03-08",
+          "confirmations": 7,
+          "source": "https://web.archive.org/web/20250908220154/https://www.gumloop.com/pricing",
+          "prices": [
+            "$244/month",
+            "$37/month"
+          ],
+          "plans": [
+            "Enterprise",
+            "Free Drive before you buy",
+            "Free",
+            "Unlimited Nodes",
+            "Unlimited Flows",
+            "Get started for free",
+            "Team For teams looking to collaborate",
+            "Unlimited Workspaces"
+          ]
+        },
+        {
+          "key": "$37/month $50",
+          "from": "2026-04-14",
+          "until": "2026-09-11",
+          "confirmations": 6,
+          "source": "https://web.archive.org/web/20260414001824/https://www.gumloop.com/pricing",
+          "prices": [
+            "$37/month",
+            "$50"
+          ],
+          "plans": [
+            "Enterprise",
+            "Free Drive before you buy",
+            "Free",
+            "Unlimited Agents",
+            "Unlimited Flows",
+            "Get started for free",
+            "Pro Unlock the full power of Gumloop",
+            "Unlimited Teams"
+          ]
+        }
+      ]
+    },
+    "lindy": {
+      "name": "Lindy",
+      "url": "https://www.lindy.ai/pricing",
+      "snapshots": 19,
+      "first": "2024-04-13",
+      "last": "2026-09-11",
+      "periods": [
+        {
+          "key": "$0 $199/mo $49/mo $99/mo",
+          "from": "2024-04-13",
+          "until": "2024-04-13",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20240413152651/https://www.lindy.ai/pricing",
+          "prices": [
+            "$0",
+            "$199/mo",
+            "$49/mo",
+            "$99/mo"
+          ],
+          "plans": [
+            "Free",
+            "Starter",
+            "Choose Starter",
+            "Standard",
+            "Choose Standard",
+            "Pro",
+            "Choose Pro"
+          ]
+        },
+        {
+          "key": "$0 $199.99/mo $29.99/mo $49.99/mo $500",
+          "from": "2024-08-20",
+          "until": "2024-09-17",
+          "confirmations": 2,
+          "source": "https://web.archive.org/web/20240820182133/https://www.lindy.ai/pricing",
+          "prices": [
+            "$0",
+            "$199.99/mo",
+            "$29.99/mo",
+            "$49.99/mo",
+            "$500"
+          ],
+          "plans": [
+            "Free",
+            "Pro",
+            "Premium Actions",
+            "Choose Pro"
+          ]
+        },
+        {
+          "key": "$0",
+          "from": "2024-11-17",
+          "until": "2025-08-05",
+          "confirmations": 8,
+          "source": "https://web.archive.org/web/20241117065218/https://www.lindy.ai/pricing",
+          "prices": [
+            "$0"
+          ],
+          "plans": [
+            "Sign up for free Sign up for free",
+            "Sign up for free",
+            "Free",
+            "Start for free today.",
+            "400 free credits",
+            "400 free tasks"
+          ]
+        },
+        {
+          "key": "$49 $59",
+          "from": "2026-03-10",
+          "until": "2026-03-10",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20260310183010/https://www.lindy.ai/pricing",
+          "prices": [
+            "$49",
+            "$59"
+          ],
+          "plans": [
+            "Enterprise",
+            "Try for free Try for free",
+            "Try for free",
+            "Start with 7 days free. Cancel anytime.",
+            "Email triage (during business hours)",
+            "Plus",
+            "Everything in Pro",
+            "Team settings"
+          ]
+        },
+        {
+          "key": "$199 $49 $99",
+          "from": "2026-04-16",
+          "until": "2026-08-03",
+          "confirmations": 5,
+          "source": "https://web.archive.org/web/20260416213307/https://www.lindy.ai/pricing",
+          "prices": [
+            "$199",
+            "$49",
+            "$99"
+          ],
+          "plans": [
+            "Enterprise",
+            "Try for free Try for free",
+            "Try for free",
+            "Plus",
+            "Pro",
+            "What&#x27;s included in the free trial?"
+          ]
+        },
+        {
+          "key": "$199.99/mo $29.99/mo $99.99/mo",
+          "from": "2026-09-03",
+          "until": "2026-09-11",
+          "confirmations": 2,
+          "source": "https://web.archive.org/web/20260903091121/https://www.lindy.ai/pricing",
+          "prices": [
+            "$199.99/mo",
+            "$29.99/mo",
+            "$99.99/mo"
+          ],
+          "plans": [
+            "Enterprise",
+            "Try for free Try for free",
+            "Try for free",
+            "Plus",
+            "3k credits / user / mo Standard usage",
+            "Pro",
+            "40+ skills, plus create your own",
+            "Team files with version history"
+          ]
+        }
+      ]
+    },
+    "relevanceai": {
+      "name": "Relevance AI",
+      "url": "https://relevanceai.com/pricing",
+      "snapshots": 27,
+      "first": "2024-03-13",
+      "last": "2026-05-13",
+      "periods": [
+        {
+          "key": "$0 $100 $199 $2 $599",
+          "from": "2024-03-13",
+          "until": "2024-10-05",
+          "confirmations": 8,
+          "source": "https://web.archive.org/web/20240313142530/https://relevanceai.com/pricing",
+          "prices": [
+            "$0",
+            "$100",
+            "$199",
+            "$2",
+            "$599"
+          ],
+          "plans": [
+            "Agent Teams",
+            "Get your free copy",
+            "Enterprise",
+            "Sign In Try for free",
+            "Free",
+            "Team",
+            "Business",
+            "Unlimited users"
+          ]
+        },
+        {
+          "key": "$0 $100 $199 $20 $599",
+          "from": "2024-11-10",
+          "until": "2024-11-10",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20241110021607/https://relevanceai.com/pricing",
+          "prices": [
+            "$0",
+            "$100",
+            "$199",
+            "$20",
+            "$599"
+          ],
+          "plans": [
+            "Agent Teams",
+            "Enterprise",
+            "Free",
+            "Team",
+            "Business",
+            "Unlimited users",
+            "Try for free Request demo",
+            "Free plan"
+          ]
+        },
+        {
+          "key": "$0 $100 $19 $199 $20 $599",
+          "from": "2024-12-06",
+          "until": "2025-06-01",
+          "confirmations": 7,
+          "source": "https://web.archive.org/web/20241206182345/https://relevanceai.com/pricing",
+          "prices": [
+            "$0",
+            "$100",
+            "$19",
+            "$199",
+            "$20",
+            "$599"
+          ],
+          "plans": [
+            "Agent Teams",
+            "Enterprise",
+            "Free",
+            "Pro",
+            "Team",
+            "Business",
+            "For teams building complex AI Agents.",
+            "Unlimited users"
+          ]
+        },
+        {
+          "key": "$0 $100 $17 $179 $19 $199 $20 $539 $599",
+          "from": "2025-07-19",
+          "until": "2025-09-03",
+          "confirmations": 3,
+          "source": "https://web.archive.org/web/20250719203320/https://relevanceai.com/pricing",
+          "prices": [
+            "$0",
+            "$100",
+            "$17",
+            "$179",
+            "$19",
+            "$199",
+            "$20",
+            "$539",
+            "$599"
+          ],
+          "plans": [
+            "Create & manage AI teams.",
+            "BY TEAM",
+            "Enterprise Pricing Simple Menu",
+            "Free",
+            "Pro",
+            "Team",
+            "Business",
+            "For teams building complex AI Agents."
+          ]
+        },
+        {
+          "key": "$0 $100 $19 $199 $2 $20 $234 $240 $29 $348 $349 $40 $599 $6 $70 $72 $840",
+          "from": "2025-10-06",
+          "until": "2026-02-03",
+          "confirmations": 5,
+          "source": "https://web.archive.org/web/20251006105237/https://relevanceai.com/pricing",
+          "prices": [
+            "$0",
+            "$100",
+            "$19",
+            "$199",
+            "$2",
+            "$20",
+            "$234",
+            "$240",
+            "$29",
+            "$348",
+            "$349",
+            "$40",
+            "$599",
+            "$6",
+            "$70",
+            "$72",
+            "$840"
+          ],
+          "plans": [
+            "Create & manage AI teams.",
+            "BY TEAM",
+            "Enterprise Pricing Simple Menu",
+            "Plans that scale with you",
+            "Free",
+            "Unlimited Agents & Tools",
+            "Pro",
+            "TRY FOR FREE"
+          ]
+        },
+        {
+          "key": "$0/month $2 $234/month $840",
+          "from": "2026-03-01",
+          "until": "2026-03-01",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20260301050327/https://relevanceai.com/pricing",
+          "prices": [
+            "$0/month",
+            "$2",
+            "$234/month",
+            "$840"
+          ],
+          "plans": [
+            "Free",
+            "Unlimited Agents & Tools",
+            "Team",
+            "Try for free",
+            "Unlimited Workforces",
+            "Enterprise",
+            "Unlimited Users & Projects",
+            "Enterprise App Triggers"
+          ]
+        },
+        {
+          "key": "$0/month $19/month $2 $234/month $240 $840",
+          "from": "2026-04-12",
+          "until": "2026-04-12",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20260412161222/https://relevanceai.com/pricing",
+          "prices": [
+            "$0/month",
+            "$19/month",
+            "$2",
+            "$234/month",
+            "$240",
+            "$840"
+          ],
+          "plans": [
+            "Free",
+            "Unlimited Agents & Tools",
+            "Pro",
+            "Try for free",
+            "Unlimited Workforces",
+            "Premium App Triggers",
+            "Team",
+            "Enterprise"
+          ]
+        },
+        {
+          "key": "$20 $70",
+          "from": "2026-05-13",
+          "until": "2026-05-13",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20260513152126/https://relevanceai.com/pricing",
+          "prices": [
+            "$20",
+            "$70"
+          ],
+          "plans": [
+            "Plans that scale with your agents",
+            "Pro",
+            "Unlimited Agents & Tools",
+            "Unlimited Workforces",
+            "Team",
+            "Everything in Pro",
+            "Enterprise",
+            "Everything in Team"
+          ]
+        }
+      ]
+    },
+    "voiceflow": {
+      "name": "Voiceflow",
+      "url": "https://www.voiceflow.com/pricing",
+      "snapshots": 18,
+      "first": "2024-01-08",
+      "last": "2026-01-06",
+      "periods": [
+        {
+          "key": "$5 $50permonth",
+          "from": "2024-01-08",
+          "until": "2024-01-08",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20240108171102/https://www.voiceflow.com/pricing",
+          "prices": [
+            "$5",
+            "$50permonth"
+          ],
+          "plans": [
+            "Get started with free templates",
+            "Enterprise",
+            "Get started for free",
+            "Free to get started",
+            "Unlimited viewers",
+            "Professional",
+            "Everything in Sandbox plus...",
+            "Teams"
+          ]
+        },
+        {
+          "key": "$5 $500permonth $50permonth",
+          "from": "2024-02-28",
+          "until": "2024-03-01",
+          "confirmations": 2,
+          "source": "https://web.archive.org/web/20240228133904/https://www.voiceflow.com/pricing",
+          "prices": [
+            "$5",
+            "$500permonth",
+            "$50permonth"
+          ],
+          "plans": [
+            "Get started with free templates",
+            "Enterprise",
+            "Get started for free",
+            "Free to get started",
+            "Unlimited viewers",
+            "Professional",
+            "Everything in Sandbox plus...",
+            "Teams"
+          ]
+        },
+        {
+          "key": "$480peryear $50permonth $625permonth",
+          "from": "2024-05-06",
+          "until": "2024-07-18",
+          "confirmations": 3,
+          "source": "https://web.archive.org/web/20240506014110/https://www.voiceflow.com/pricing",
+          "prices": [
+            "$480peryear",
+            "$50permonth",
+            "$625permonth"
+          ],
+          "plans": [
+            "Plans for teams of every size.",
+            "Free",
+            "Get started for free",
+            "Free to get started:",
+            "Pro",
+            "Teams",
+            "For growing teams:",
+            "Unlimited agents"
+          ]
+        },
+        {
+          "key": "$120 $125 $480 $50",
+          "from": "2024-09-06",
+          "until": "2024-09-06",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20240906163118/https://www.voiceflow.com/pricing",
+          "prices": [
+            "$120",
+            "$125",
+            "$480",
+            "$50"
+          ],
+          "plans": [
+            "Free",
+            "Get started for free",
+            "Free to get started:",
+            "Pro",
+            "Team",
+            "For growing teams:",
+            "Unlimited agents",
+            "Signup for teams"
+          ]
+        },
+        {
+          "key": "$120 $125/mo $480 $50/mo",
+          "from": "2024-11-26",
+          "until": "2025-01-08",
+          "confirmations": 2,
+          "source": "https://web.archive.org/web/20241126191336/https://www.voiceflow.com/pricing",
+          "prices": [
+            "$120",
+            "$125/mo",
+            "$480",
+            "$50/mo"
+          ],
+          "plans": [
+            "Free",
+            "Get started for free",
+            "Free to get started:",
+            "Pro",
+            "Team",
+            "For growing teams:",
+            "Unlimited agents",
+            "Signup for teams"
+          ]
+        },
+        {
+          "key": "$0.5/mo $120 $125/mo $25/mo $480 $50/mo $75/mo",
+          "from": "2025-02-12",
+          "until": "2025-02-12",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20250212225751/https://www.voiceflow.com/pricing",
+          "prices": [
+            "$0.5/mo",
+            "$120",
+            "$125/mo",
+            "$25/mo",
+            "$480",
+            "$50/mo",
+            "$75/mo"
+          ],
+          "plans": [
+            "Free",
+            "Get started for free",
+            "Free to get started:",
+            "Pro",
+            "Team",
+            "For growing teams:",
+            "Unlimited agents",
+            "Enterprise"
+          ]
+        },
+        {
+          "key": "$150/month $162 $50/month $60/month $648/year",
+          "from": "2025-04-30",
+          "until": "2025-05-22",
+          "confirmations": 2,
+          "source": "https://web.archive.org/web/20250430034216/https://www.voiceflow.com/pricing",
+          "prices": [
+            "$150/month",
+            "$162",
+            "$50/month",
+            "$60/month",
+            "$648/year"
+          ],
+          "plans": [
+            "Starter",
+            "Free to get started",
+            "Free",
+            "Get started for free",
+            "Pro",
+            "Business",
+            "For growing teams",
+            "Unlimited agents"
+          ]
+        },
+        {
+          "key": "$150/month $162 $60/month $648/year",
+          "from": "2025-07-08",
+          "until": "2026-01-06",
+          "confirmations": 6,
+          "source": "https://web.archive.org/web/20250708233614/https://www.voiceflow.com/pricing",
+          "prices": [
+            "$150/month",
+            "$162",
+            "$60/month",
+            "$648/year"
+          ],
+          "plans": [
+            "Starter",
+            "Free",
+            "Get started for free",
+            "Basic LLM models",
+            "Pro",
+            "Business",
+            "For growing teams",
+            "Unlimited agents"
+          ]
+        }
+      ]
+    },
+    "botpress": {
+      "name": "Botpress",
+      "url": "https://botpress.com/pricing",
+      "snapshots": 18,
+      "first": "2024-03-02",
+      "last": "2026-09-11",
+      "periods": [
+        {
+          "key": "$0 $1 $1/month $10 $10/month $100 $100/month $1000 $1000/month $2 $25 $25/month $37 $495 $5",
+          "from": "2024-03-02",
+          "until": "2024-03-02",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20240302235431/https://botpress.com/pricing",
+          "prices": [
+            "$0",
+            "$1",
+            "$1/month",
+            "$10",
+            "$10/month",
+            "$100",
+            "$100/month",
+            "$1000",
+            "$1000/month",
+            "$2",
+            "$25",
+            "$25/month",
+            "$37",
+            "$495",
+            "$5"
+          ],
+          "plans": [
+            "Start for free & customize your plan",
+            "Free",
+            "Get Started - it&#x27;s free!",
+            "Team",
+            "Enterprise",
+            "Get Started – it&#x27;s free!",
+            "Business",
+            "Premium Web Crawler"
+          ]
+        },
+        {
+          "key": "$0 $1 $1/month $10 $10/month $100 $100/month $1000 $1000/month $2 $25 $25/month $37 $495 $5 $5/month",
+          "from": "2024-05-05",
+          "until": "2024-05-05",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20240505124735/https://botpress.com/pricing",
+          "prices": [
+            "$0",
+            "$1",
+            "$1/month",
+            "$10",
+            "$10/month",
+            "$100",
+            "$100/month",
+            "$1000",
+            "$1000/month",
+            "$2",
+            "$25",
+            "$25/month",
+            "$37",
+            "$495",
+            "$5",
+            "$5/month"
+          ],
+          "plans": [
+            "Start for free & customize your plan",
+            "Free",
+            "Get Started - it&#x27;s free!",
+            "Team",
+            "Enterprise",
+            "Get Started – it&#x27;s free!",
+            "Business",
+            "Premium Web Crawler"
+          ]
+        },
+        {
+          "key": "$0 $0/month $1 $1/month $10 $10/month $100 $100/month $1000/month $2 $25 $25/month $37 $495 $495/month $5 $5/month",
+          "from": "2024-06-15",
+          "until": "2024-09-26",
+          "confirmations": 2,
+          "source": "https://web.archive.org/web/20240615210107/https://botpress.com/pricing",
+          "prices": [
+            "$0",
+            "$0/month",
+            "$1",
+            "$1/month",
+            "$10",
+            "$10/month",
+            "$100",
+            "$100/month",
+            "$1000/month",
+            "$2",
+            "$25",
+            "$25/month",
+            "$37",
+            "$495",
+            "$495/month",
+            "$5",
+            "$5/month"
+          ],
+          "plans": [
+            "Enterprise",
+            "Start for free & customize your plan",
+            "Start for free",
+            "Team",
+            "Advanced monitoring and logging",
+            "Enterprise key management",
+            "Premium web crawler"
+          ]
+        },
+        {
+          "key": "$0 $0/month $1 $1/month $10 $10/month $100 $100/month $1000/month $25 $25/month $495 $495/month $5 $5/month",
+          "from": "2024-12-08",
+          "until": "2024-12-08",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20241208063608/https://botpress.com/pricing",
+          "prices": [
+            "$0",
+            "$0/month",
+            "$1",
+            "$1/month",
+            "$10",
+            "$10/month",
+            "$100",
+            "$100/month",
+            "$1000/month",
+            "$25",
+            "$25/month",
+            "$495",
+            "$495/month",
+            "$5",
+            "$5/month"
+          ],
+          "plans": [
+            "Enterprise",
+            "Start for free & customize your plan",
+            "Start for free",
+            "Free monthly AI credit",
+            "Team",
+            "All Team features, and:",
+            "Botpress Enterprise Guarantee",
+            "Advanced monitoring and logging"
+          ]
+        },
+        {
+          "key": "$0 $0/month $1/month $10 $10/month $100/month $1000/month $20 $25 $25/month $445.50 $495 $495/month $5 $5/month",
+          "from": "2025-01-31",
+          "until": "2025-01-31",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20250131223636/https://botpress.com/pricing",
+          "prices": [
+            "$0",
+            "$0/month",
+            "$1/month",
+            "$10",
+            "$10/month",
+            "$100/month",
+            "$1000/month",
+            "$20",
+            "$25",
+            "$25/month",
+            "$445.50",
+            "$495",
+            "$495/month",
+            "$5",
+            "$5/month"
+          ],
+          "plans": [
+            "Enterprise",
+            "Start for free & customize your plan",
+            "Start for free",
+            "Free monthly AI credit",
+            "Team",
+            "Request a free trial",
+            "All Team features, and:",
+            "Botpress Enterprise Guarantee"
+          ]
+        },
+        {
+          "key": "$0 $1/month $10 $10/month $100/month $20 $20/month $25 $25/month $445 $495 $5 $500/month $79 $89",
+          "from": "2025-04-07",
+          "until": "2025-07-18",
+          "confirmations": 2,
+          "source": "https://web.archive.org/web/20250407092448/https://botpress.com/pricing",
+          "prices": [
+            "$0",
+            "$1/month",
+            "$10",
+            "$10/month",
+            "$100/month",
+            "$20",
+            "$20/month",
+            "$25",
+            "$25/month",
+            "$445",
+            "$495",
+            "$5",
+            "$500/month",
+            "$79",
+            "$89"
+          ],
+          "plans": [
+            "Enterprise",
+            "Start for free & customize your plan",
+            "Start for free",
+            "Free monthly AI credit",
+            "Plus",
+            "Team",
+            "All Plus features, and:",
+            "All Team features, and:"
+          ]
+        },
+        {
+          "key": "$0 $0/mo $1/month $10/month $100/month $20/month $200 $25/month $445 $495 $495/mo $5 $500/month $79 $89 $89/mo",
+          "from": "2025-08-14",
+          "until": "2025-08-14",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20250814115632/https://botpress.com/pricing",
+          "prices": [
+            "$0",
+            "$0/mo",
+            "$1/month",
+            "$10/month",
+            "$100/month",
+            "$20/month",
+            "$200",
+            "$25/month",
+            "$445",
+            "$495",
+            "$495/mo",
+            "$5",
+            "$500/month",
+            "$79",
+            "$89",
+            "$89/mo"
+          ],
+          "plans": [
+            "Enterprise",
+            "Start for free",
+            "Free monthly AI credit",
+            "Plus",
+            "Team",
+            "All Plus features, and:",
+            "Advanced support",
+            "All Team features, and:"
+          ]
+        },
+        {
+          "key": "$0 $0/mo $10/month $100/month $20/month $200 $25/month $445 $495 $495/mo $5 $500/month $79 $89 $89/mo",
+          "from": "2025-11-08",
+          "until": "2025-11-08",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20251108041118/https://botpress.com/pricing",
+          "prices": [
+            "$0",
+            "$0/mo",
+            "$10/month",
+            "$100/month",
+            "$20/month",
+            "$200",
+            "$25/month",
+            "$445",
+            "$495",
+            "$495/mo",
+            "$5",
+            "$500/month",
+            "$79",
+            "$89",
+            "$89/mo"
+          ],
+          "plans": [
+            "Enterprise",
+            "Get started for free",
+            "Contact Get started for free",
+            "Start for free",
+            "Free monthly AI credit",
+            "Plus",
+            "Team",
+            "All Plus features, and:"
+          ]
+        },
+        {
+          "key": "$0 $0/mo $10/month $100/month $149 $20/month $25/month $445 $495 $495/mo $5 $500/month $79 $89 $89/mo $995",
+          "from": "2026-02-28",
+          "until": "2026-02-28",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20260228120323/https://botpress.com/pricing",
+          "prices": [
+            "$0",
+            "$0/mo",
+            "$10/month",
+            "$100/month",
+            "$149",
+            "$20/month",
+            "$25/month",
+            "$445",
+            "$495",
+            "$495/mo",
+            "$5",
+            "$500/month",
+            "$79",
+            "$89",
+            "$89/mo",
+            "$995"
+          ],
+          "plans": [
+            "Enterprise",
+            "Contact us Get started for free",
+            "Start for free",
+            "Free monthly AI credit",
+            "Plus",
+            "Team",
+            "All Plus features, and:",
+            "Advanced support"
+          ]
+        },
+        {
+          "key": "$0 $0/mo $10/month $100/month $1245 $1245/mo $149 $20/month $25/month $445 $495 $495/mo $5 $500/month $79 $89 $89/mo",
+          "from": "2026-04-10",
+          "until": "2026-04-10",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20260410064738/https://botpress.com/pricing",
+          "prices": [
+            "$0",
+            "$0/mo",
+            "$10/month",
+            "$100/month",
+            "$1245",
+            "$1245/mo",
+            "$149",
+            "$20/month",
+            "$25/month",
+            "$445",
+            "$495",
+            "$495/mo",
+            "$5",
+            "$500/month",
+            "$79",
+            "$89",
+            "$89/mo"
+          ],
+          "plans": [
+            "Enterprise",
+            "Contact us Get started for free",
+            "Start for free",
+            "Free monthly AI credit",
+            "Plus",
+            "Team",
+            "All Plus features, and:",
+            "Advanced support"
+          ]
+        },
+        {
+          "key": "$0 $0/mo $10/month $100/month $1245 $1245/mo $1495 $20/month $25/month $445 $495 $495/mo $5 $500/month $79 $89 $89/mo",
+          "from": "2026-05-08",
+          "until": "2026-05-08",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20260508154649/https://botpress.com/pricing",
+          "prices": [
+            "$0",
+            "$0/mo",
+            "$10/month",
+            "$100/month",
+            "$1245",
+            "$1245/mo",
+            "$1495",
+            "$20/month",
+            "$25/month",
+            "$445",
+            "$495",
+            "$495/mo",
+            "$5",
+            "$500/month",
+            "$79",
+            "$89",
+            "$89/mo"
+          ],
+          "plans": [
+            "Enterprise",
+            "Get a demo Get started for free",
+            "Start for free",
+            "Free monthly AI credit",
+            "Plus",
+            "Team",
+            "All Plus features, and:",
+            "Advanced support"
+          ]
+        },
+        {
+          "key": "$0 $0.50 $0.65 $150/mo $40/mo $50 $65 $750/mo",
+          "from": "2026-06-28",
+          "until": "2026-07-22",
+          "confirmations": 2,
+          "source": "https://web.archive.org/web/20260628051954/https://botpress.com/pricing",
+          "prices": [
+            "$0",
+            "$0.50",
+            "$0.65",
+            "$150/mo",
+            "$40/mo",
+            "$50",
+            "$65",
+            "$750/mo"
+          ],
+          "plans": [
+            "Enterprise",
+            "Try for free",
+            "Enterprise Plan",
+            "Free",
+            "Get started free",
+            "Our AI helpdesk for support teams.",
+            "Plus",
+            "Unlimited AI agents"
+          ]
+        },
+        {
+          "key": "$0 $0.10 $0.50 $0.65 $150 $150/mo $25 $40/mo $50 $65 $750/mo",
+          "from": "2026-08-24",
+          "until": "2026-09-11",
+          "confirmations": 3,
+          "source": "https://web.archive.org/web/20260824212612/https://botpress.com/pricing",
+          "prices": [
+            "$0",
+            "$0.10",
+            "$0.50",
+            "$0.65",
+            "$150",
+            "$150/mo",
+            "$25",
+            "$40/mo",
+            "$50",
+            "$65",
+            "$750/mo"
+          ],
+          "plans": [
+            "Enterprise",
+            "Try for free",
+            "Enterprise Plan",
+            "Free",
+            "Get started free",
+            "Plus",
+            "Includes everything in Free, and:",
+            "Unlimited AI agents"
+          ]
+        }
+      ]
+    },
+    "stack-ai": {
+      "name": "Stack AI",
+      "url": "https://www.stack-ai.com/pricing",
+      "snapshots": 18,
+      "first": "2024-01-14",
+      "last": "2026-09-11",
+      "periods": [
+        {
+          "key": "$0/month $199/month $899/month",
+          "from": "2024-01-14",
+          "until": "2025-01-23",
+          "confirmations": 7,
+          "source": "https://web.archive.org/web/20240114212239/https://www.stack-ai.com/pricing",
+          "prices": [
+            "$0/month",
+            "$199/month",
+            "$899/month"
+          ],
+          "plans": [
+            "Free",
+            "Starter",
+            "Team",
+            "Up to 5 team members",
+            "Enterprise / Academia",
+            "Unlimited runs*",
+            "Unlimited team members",
+            "Enterprise-grade security and privacy"
+          ]
+        },
+        {
+          "key": "$0 $199 $899",
+          "from": "2025-04-16",
+          "until": "2025-04-16",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20250416133229/https://www.stack-ai.com/pricing",
+          "prices": [
+            "$0",
+            "$199",
+            "$899"
+          ],
+          "plans": [
+            "Free",
+            "Starter",
+            "Basic KBs and data loaders",
+            "7 day free trial",
+            "Team",
+            "Advanced KBs and data loaders",
+            "Enterprise/Academia",
+            "Team members"
+          ]
+        },
+        {
+          "key": "$0",
+          "from": "2025-05-16",
+          "until": "2026-09-11",
+          "confirmations": 10,
+          "source": "https://web.archive.org/web/20250516135752/https://www.stack-ai.com/pricing",
+          "prices": [
+            "$0"
+          ],
+          "plans": [
+            "Free",
+            "Enterprise",
+            "Team members",
+            "What is Enterprise AI?"
+          ]
+        }
+      ]
+    },
+    "dify": {
+      "name": "Dify",
+      "url": "https://dify.ai/pricing",
+      "snapshots": 29,
+      "first": "2024-01-13",
+      "last": "2026-09-11",
+      "periods": [
+        {
+          "key": "$159 $59",
+          "from": "2024-01-13",
+          "until": "2025-02-01",
+          "confirmations": 10,
+          "source": "https://web.archive.org/web/20240113131355/https://dify.ai/pricing",
+          "prices": [
+            "$159",
+            "$59"
+          ],
+          "plans": [
+            "200 times GPT free trial",
+            "Free",
+            "Start for free",
+            "Team Members",
+            "Standard",
+            "Professional",
+            "Get started with Professional",
+            "Everything in Sandbox plan, plus:"
+          ]
+        },
+        {
+          "key": "$118 $159 $318 $59",
+          "from": "2025-03-20",
+          "until": "2025-06-22",
+          "confirmations": 4,
+          "source": "https://web.archive.org/web/20250320165628/https://dify.ai/pricing",
+          "prices": [
+            "$118",
+            "$159",
+            "$318",
+            "$59"
+          ],
+          "plans": [
+            "free trial of 200 OpenAI calls",
+            "Free Trial of Core Capabilities",
+            "Free",
+            "Start for Free",
+            "1 Team Workspace",
+            "1 Team Member",
+            "Standard Document Processing",
+            "Professional"
+          ]
+        },
+        {
+          "key": "$118 $159 $318 $59 $590",
+          "from": "2025-07-18",
+          "until": "2026-06-07",
+          "confirmations": 11,
+          "source": "https://web.archive.org/web/20250718030816/https://dify.ai/pricing",
+          "prices": [
+            "$118",
+            "$159",
+            "$318",
+            "$59",
+            "$590"
+          ],
+          "plans": [
+            "Try core features for free.",
+            "Free",
+            "1 Team Workspace",
+            "1 Team Member",
+            "Standard Document Processing",
+            "Explore AI possibilities risk-free",
+            "Professional",
+            "3 Team Members"
+          ]
+        },
+        {
+          "key": "$159 $590",
+          "from": "2026-07-08",
+          "until": "2026-09-11",
+          "confirmations": 4,
+          "source": "https://web.archive.org/web/20260708111510/https://dify.ai/pricing",
+          "prices": [
+            "$159",
+            "$590"
+          ],
+          "plans": [
+            "Professional",
+            "1 Team Workspace",
+            "3 Team Members",
+            "Unlimited Triggers / workflow",
+            "Unlimited Log History",
+            "Team",
+            "50 Team Members",
+            "Free"
+          ]
+        }
+      ]
+    },
+    "vellum": {
+      "name": "Vellum",
+      "url": "https://www.vellum.ai/pricing",
+      "snapshots": 14,
+      "first": "2024-05-26",
+      "last": "2026-09-11",
+      "periods": [
+        {
+          "key": "$5",
+          "from": "2024-05-26",
+          "until": "2025-01-18",
+          "confirmations": 7,
+          "source": "https://web.archive.org/web/20240526064639/https://www.vellum.ai/pricing",
+          "prices": [
+            "$5"
+          ],
+          "plans": [
+            "Free Tools View all",
+            "Growth",
+            "Pro",
+            "Growth features, plus:",
+            "Advanced RAG",
+            "Premium Support",
+            "Enterprise",
+            "Pro features, plus select from:"
+          ]
+        },
+        {
+          "key": "$0 $25 $79",
+          "from": "2025-11-12",
+          "until": "2025-12-12",
+          "confirmations": 2,
+          "source": "https://web.archive.org/web/20251112013303/https://www.vellum.ai/pricing",
+          "prices": [
+            "$0",
+            "$25",
+            "$79"
+          ],
+          "plans": [
+            "Enterprise",
+            "Free",
+            "Pro",
+            "Business",
+            "Unlimited credits & custom setup, plus:",
+            "Unlimited credits",
+            "Custom enterprise add-ons",
+            "Available enterprise features"
+          ]
+        },
+        {
+          "key": "$0 $25 $50",
+          "from": "2026-03-02",
+          "until": "2026-03-02",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20260302180453/https://www.vellum.ai/pricing",
+          "prices": [
+            "$0",
+            "$25",
+            "$50"
+          ],
+          "plans": [
+            "Free",
+            "Start for Free",
+            "Pro",
+            "Business",
+            "Enterprise",
+            "Unlimited credits",
+            "Custom enterprise add-ons",
+            "Available enterprise features"
+          ]
+        },
+        {
+          "key": "$10/mo $120/mo $125/mo $15/mo $30/mo $35/mo $5/mo $50permonth $60/mo",
+          "from": "2026-06-10",
+          "until": "2026-07-13",
+          "confirmations": 2,
+          "source": "https://web.archive.org/web/20260610180518/https://www.vellum.ai/pricing",
+          "prices": [
+            "$10/mo",
+            "$120/mo",
+            "$125/mo",
+            "$15/mo",
+            "$30/mo",
+            "$35/mo",
+            "$5/mo",
+            "$50permonth",
+            "$60/mo"
+          ],
+          "plans": [
+            "Your plan Pro",
+            "Get started with Pro",
+            "Does Pro include credits?"
+          ]
+        },
+        {
+          "key": "$1 $100/month $115 $200/month $25 $30/month $45",
+          "from": "2026-08-18",
+          "until": "2026-08-18",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20260818130607/https://www.vellum.ai/pricing",
+          "prices": [
+            "$1",
+            "$100/month",
+            "$115",
+            "$200/month",
+            "$25",
+            "$30/month",
+            "$45"
+          ],
+          "plans": [
+            "Start free. Your first tasks are on us.",
+            "Start Free → Mighty"
+          ]
+        },
+        {
+          "key": "$1 $100/month $200/month $30/month",
+          "from": "2026-09-11",
+          "until": "2026-09-11",
+          "confirmations": 1,
+          "source": "https://www.vellum.ai/pricing",
+          "prices": [
+            "$1",
+            "$100/month",
+            "$200/month",
+            "$30/month"
+          ],
+          "plans": [
+            "Start free. Your first tasks are on us.",
+            "Start Free → Mighty"
+          ]
+        }
+      ]
+    },
+    "taskade": {
+      "name": "Taskade",
+      "url": "https://www.taskade.com/pricing",
+      "snapshots": 32,
+      "first": "2024-01-03",
+      "last": "2026-09-11",
+      "periods": [
+        {
+          "key": "$12 $16peruser $19permonth $20 $39 $8peruser",
+          "from": "2024-01-03",
+          "until": "2024-01-03",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20240103050042/https://www.taskade.com/pricing",
+          "prices": [
+            "$12",
+            "$16peruser",
+            "$19permonth",
+            "$20",
+            "$39",
+            "$8peruser"
+          ],
+          "plans": [
+            "Sign up for free Log in",
+            "Personal Plans Business Plans",
+            "Pro",
+            "Everything in Plus , and:",
+            "Advanced team permissions",
+            "Business Most popular",
+            "For growing teams looking to scale",
+            "Everything in Pro , and:"
+          ]
+        },
+        {
+          "key": "$12 $16 $19 $20 $8",
+          "from": "2024-02-12",
+          "until": "2024-03-02",
+          "confirmations": 2,
+          "source": "https://web.archive.org/web/20240212203619/https://www.taskade.com/pricing",
+          "prices": [
+            "$12",
+            "$16",
+            "$19",
+            "$20",
+            "$8"
+          ],
+          "plans": [
+            "Sign up for free Log in",
+            "Personal Plans Business Plans",
+            "Pro",
+            "Everything in Plus , and:",
+            "Unlimited AI (GPT-4)",
+            "Advanced team permissions",
+            "Business Most popular",
+            "For growing teams looking to scale"
+          ]
+        },
+        {
+          "key": "$0 $10 $16 $16/mo $20 $8 $8/mo",
+          "from": "2024-04-18",
+          "until": "2024-12-14",
+          "confirmations": 9,
+          "source": "https://web.archive.org/web/20240418092156/https://www.taskade.com/pricing",
+          "prices": [
+            "$0",
+            "$10",
+            "$16",
+            "$16/mo",
+            "$20",
+            "$8",
+            "$8/mo"
+          ],
+          "plans": [
+            "Sign up for free Log in",
+            "Free",
+            "Free includes:",
+            "Taskade Pro Popular",
+            "Everything in Free , and:",
+            "Unlimited AI usage",
+            "Advanced AI Automations",
+            "Taskade for Teams"
+          ]
+        },
+        {
+          "key": "$0 $10 $150 $16 $16/mo $20 $8 $8/mo",
+          "from": "2025-01-14",
+          "until": "2025-02-11",
+          "confirmations": 2,
+          "source": "https://web.archive.org/web/20250114134006/https://www.taskade.com/pricing",
+          "prices": [
+            "$0",
+            "$10",
+            "$150",
+            "$16",
+            "$16/mo",
+            "$20",
+            "$8",
+            "$8/mo"
+          ],
+          "plans": [
+            "AI Agent Teams",
+            "Sign up for free Log in",
+            "Free",
+            "Free includes:",
+            "Taskade Pro Popular",
+            "Everything in Free , and:",
+            "Unlimited AI Usage",
+            "Unlimited File Uploads"
+          ]
+        },
+        {
+          "key": "$0 $12 $12/mo $7 $7/mo",
+          "from": "2025-03-17",
+          "until": "2025-03-17",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20250317085236/https://www.taskade.com/pricing",
+          "prices": [
+            "$0",
+            "$12",
+            "$12/mo",
+            "$7",
+            "$7/mo"
+          ],
+          "plans": [
+            "AI Agent Teams",
+            "Sign up for free Log in",
+            "Free",
+            "Free includes:",
+            "Pro Popular",
+            "Everything in Free , and:",
+            "Unlimited AI Knowledge & Files",
+            "Team"
+          ]
+        },
+        {
+          "key": "$0 $10 $10/mo $50 $50/mo",
+          "from": "2025-04-04",
+          "until": "2025-07-16",
+          "confirmations": 4,
+          "source": "https://web.archive.org/web/20250404042945/https://www.taskade.com/pricing",
+          "prices": [
+            "$0",
+            "$10",
+            "$10/mo",
+            "$50",
+            "$50/mo"
+          ],
+          "plans": [
+            "AI Agent Teams",
+            "Sign up for free Log in",
+            "Free",
+            "Free includes:",
+            "Pro Popular",
+            "Everything in Free , and:",
+            "Unlimited AI Knowledge & Files",
+            "Team"
+          ]
+        },
+        {
+          "key": "$20 $200 $60",
+          "from": "2025-10-13",
+          "until": "2025-10-13",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20251013223138/https://www.taskade.com/pricing",
+          "prices": [
+            "$20",
+            "$200",
+            "$60"
+          ],
+          "plans": [
+            "Login Sign up free ➔ Sign up for free ➔",
+            "Sign up for free Log in",
+            "Hobby",
+            "Free",
+            "Basic AI Models",
+            "Pro Popular",
+            "Get Pro",
+            "Everything in Hobby , plus:"
+          ]
+        },
+        {
+          "key": "$20 $200 $60 $8",
+          "from": "2025-11-23",
+          "until": "2025-11-23",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20251123022342/https://www.taskade.com/pricing",
+          "prices": [
+            "$20",
+            "$200",
+            "$60",
+            "$8"
+          ],
+          "plans": [
+            "Login Sign up free ➔ Sign up for free ➔",
+            "Sign up for free Log in",
+            "Free",
+            "Basic AI Models",
+            "Starter",
+            "Get Starter",
+            "Everything in Free , plus:",
+            "Unlimited Apps"
+          ]
+        },
+        {
+          "key": "$000/yr $16/mo $40/mo",
+          "from": "2025-12-09",
+          "until": "2025-12-09",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20251209204105/https://www.taskade.com/pricing",
+          "prices": [
+            "$000/yr",
+            "$16/mo",
+            "$40/mo"
+          ],
+          "plans": [
+            "Login Start for free → Start for free →",
+            "Sign up for free Log in",
+            "Free",
+            "Pro",
+            "Get Pro",
+            "Everything in Free , plus:",
+            "Unlimited AI apps",
+            "Unlimited AI agents"
+          ]
+        },
+        {
+          "key": "$000/yr $16/mo $40/mo $6/mo",
+          "from": "2026-01-04",
+          "until": "2026-01-04",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20260104142855/https://www.taskade.com/pricing",
+          "prices": [
+            "$000/yr",
+            "$16/mo",
+            "$40/mo",
+            "$6/mo"
+          ],
+          "plans": [
+            "Login Start for free → Start for free →",
+            "Free",
+            "Free /mo",
+            "Starter",
+            "Get Starter",
+            "Everything in Free , plus:",
+            "Unlimited apps",
+            "Unlimited workspaces"
+          ]
+        },
+        {
+          "key": "$000/yr $16/mo $40/mo $6/mo $8/month",
+          "from": "2026-02-18",
+          "until": "2026-03-01",
+          "confirmations": 2,
+          "source": "https://web.archive.org/web/20260218065812/https://www.taskade.com/pricing",
+          "prices": [
+            "$000/yr",
+            "$16/mo",
+            "$40/mo",
+            "$6/mo",
+            "$8/month"
+          ],
+          "plans": [
+            "Free",
+            "Free /mo",
+            "Starter",
+            "Get Starter Switch to annual →",
+            "Everything in Free , plus:",
+            "Unlimited apps",
+            "Unlimited workspaces",
+            "Pro"
+          ]
+        },
+        {
+          "key": "$000/yr $16/mo $40/mo $6/mo $6/month",
+          "from": "2026-04-03",
+          "until": "2026-04-03",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20260403182647/https://www.taskade.com/pricing",
+          "prices": [
+            "$000/yr",
+            "$16/mo",
+            "$40/mo",
+            "$6/mo",
+            "$6/month"
+          ],
+          "plans": [
+            "Free",
+            "Free /mo",
+            "Starter",
+            "Get Starter Switch to annual →",
+            "Everything in Free , plus:",
+            "Unlimited apps",
+            "Unlimited workspaces",
+            "Pro"
+          ]
+        },
+        {
+          "key": "$000/yr $16/mo $200/mo $40/mo $400/mo $6/mo $6/month",
+          "from": "2026-05-11",
+          "until": "2026-07-07",
+          "confirmations": 3,
+          "source": "https://web.archive.org/web/20260511170249/https://www.taskade.com/pricing",
+          "prices": [
+            "$000/yr",
+            "$16/mo",
+            "$200/mo",
+            "$40/mo",
+            "$400/mo",
+            "$6/mo",
+            "$6/month"
+          ],
+          "plans": [
+            "Free",
+            "Free /mo",
+            "Starter",
+            "Get Starter Switch to annual →",
+            "Everything in Free , plus:",
+            "Unlimited apps",
+            "Unlimited workspaces",
+            "Pro"
+          ]
+        },
+        {
+          "key": "$10/mo $100/mo $25/mo $250/mo",
+          "from": "2026-08-11",
+          "until": "2026-08-11",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20260811144459/https://www.taskade.com/pricing",
+          "prices": [
+            "$10/mo",
+            "$100/mo",
+            "$25/mo",
+            "$250/mo"
+          ],
+          "plans": [
+            "Free",
+            "Free /mo",
+            "Free AI",
+            "Pro",
+            "Everything in Free, plus:",
+            "Unlimited AI apps",
+            "Unlimited AI agents",
+            "Unlimited workspaces"
+          ]
+        },
+        {
+          "key": "$000/yr $10/mo $100/mo $25/mo $250/mo",
+          "from": "2026-09-01",
+          "until": "2026-09-11",
+          "confirmations": 2,
+          "source": "https://web.archive.org/web/20260901161346/https://www.taskade.com/pricing",
+          "prices": [
+            "$000/yr",
+            "$10/mo",
+            "$100/mo",
+            "$25/mo",
+            "$250/mo"
+          ],
+          "plans": [
+            "Free",
+            "Free /mo",
+            "Free AI",
+            "Pro",
+            "Get Pro",
+            "Everything in Free, plus:",
+            "Unlimited AI apps",
+            "Unlimited AI agents"
+          ]
+        }
+      ]
+    },
+    "bardeen": {
+      "name": "Bardeen",
+      "url": "https://www.bardeen.ai/pricing",
+      "snapshots": 18,
+      "first": "2024-01-09",
+      "last": "2025-11-12",
+      "periods": [
+        {
+          "key": "$10 $100 $500 $990",
+          "from": "2024-01-09",
+          "until": "2024-01-09",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20240109093257/https://www.bardeen.ai/pricing",
+          "prices": [
+            "$10",
+            "$100",
+            "$500",
+            "$990"
+          ],
+          "plans": [
+            "Get Bardeen (free)",
+            "Starter",
+            "Free",
+            "Unlimited access to Magic Box",
+            "Professional",
+            "Advanced scraping",
+            "Premium integrations",
+            "Premium actions"
+          ]
+        },
+        {
+          "key": "$0 $10 $100 $15 $20/mo $500 $990",
+          "from": "2024-02-21",
+          "until": "2024-08-23",
+          "confirmations": 6,
+          "source": "https://web.archive.org/web/20240221220738/https://www.bardeen.ai/pricing",
+          "prices": [
+            "$0",
+            "$10",
+            "$100",
+            "$15",
+            "$20/mo",
+            "$500",
+            "$990"
+          ],
+          "plans": [
+            "Get Bardeen for free",
+            "Free",
+            "2 weeks of free access to the Pro tier",
+            "Professional",
+            "Advanced scraping",
+            "Premium integrations",
+            "Premium actions",
+            "Business"
+          ]
+        },
+        {
+          "key": "$0 $10 $100 $150 $20/mo $200 $500 $990",
+          "from": "2024-09-15",
+          "until": "2024-09-15",
+          "confirmations": 1,
+          "source": "https://web.archive.org/web/20240915120316/https://www.bardeen.ai/pricing",
+          "prices": [
+            "$0",
+            "$10",
+            "$100",
+            "$150",
+            "$20/mo",
+            "$200",
+            "$500",
+            "$990"
+          ],
+          "plans": [
+            "Advanced sandbox builder",
+            "Enterprise",
+            "Free",
+            "Free plan features:",
+            "Basic Integrations",
+            "Pro",
+            "Everything in Free, plus:",
+            "Advanced Integrations"
+          ]
+        },
+        {
+          "key": "$0 $10 $100 $150 $20/mo $200 $30 $60 $970",
+          "from": "2024-11-23",
+          "until": "2025-01-30",
+          "confirmations": 3,
+          "source": "https://web.archive.org/web/20241123062809/https://www.bardeen.ai/pricing",
+          "prices": [
+            "$0",
+            "$10",
+            "$100",
+            "$150",
+            "$20/mo",
+            "$200",
+            "$30",
+            "$60",
+            "$970"
+          ],
+          "plans": [
+            "Advanced sandbox builder",
+            "Enterprise",
+            "Free",
+            "Get started for free Monthly Credits",
+            "Free forever",
+            "Limited Pro features",
+            "Pro",
+            "Basic Integrations"
+          ]
+        },
+        {
+          "key": "$60",
+          "from": "2025-03-12",
+          "until": "2025-11-12",
+          "confirmations": 7,
+          "source": "https://web.archive.org/web/20250312082132/https://www.bardeen.ai/pricing",
+          "prices": [
+            "$60"
+          ],
+          "plans": [
+            "Customer Growth & Adoption",
+            "Enterprise Pricing",
+            "Starter",
+            "Starter includes:",
+            "Basic Integrations",
+            "Unlimited team members",
+            "Teams",
+            "Everything on Starter and:"
+          ]
+        }
+      ]
+    },
+    "gravity": {
+      "name": "Gravity",
+      "url": "https://gravity.fast/pricing?geo=row",
+      "snapshots": 1,
+      "first": "2026-09-11",
+      "last": "2026-09-11",
+      "periods": [
+        {
+          "key": "$0 $20 $20/mo $20/month",
+          "from": "2026-09-11",
+          "until": "2026-09-11",
+          "confirmations": 1,
+          "source": "https://gravity.fast/pricing?geo=row",
+          "prices": [
+            "$0",
+            "$20",
+            "$20/mo",
+            "$20/month"
+          ],
+          "plans": [
+            "Free",
+            "Your first agent, free to run"
+          ]
+        }
+      ]
+    }
+  }
+}

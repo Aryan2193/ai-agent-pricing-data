@@ -1,0 +1,247 @@
+{
+  "license": "CC BY 4.0, attribution: Gravity, https://gravity.fast/blog/ai-agent-pricing-index/",
+  "verified": "2026-09-11",
+  "generated": "2026-09-15",
+  "tools": [
+    {
+      "tool": "Zapier",
+      "slug": "zapier",
+      "pricing_url": "https://zapier.com/pricing",
+      "free_tier": "Yes, 100 tasks a month on two-step Zaps",
+      "starting_paid_price": "$19.99 a month (Professional, annual billing)",
+      "starting_paid_price_usd_month": 19.99,
+      "billing_unit": "Tasks: one per step, more for AI steps",
+      "included_first_paid_plan": "Slider from 750 tasks; Team from $69",
+      "last_price_change_month": "2026-07",
+      "months_tracked": 18,
+      "verified": "2026-09-11"
+    },
+    {
+      "tool": "Make",
+      "slug": "make",
+      "pricing_url": "https://www.make.com/en/pricing",
+      "free_tier": "Yes, 1,000 credits a month, 15-minute minimum interval",
+      "starting_paid_price": "$9 a month for 5,000 credits",
+      "starting_paid_price_usd_month": 9,
+      "billing_unit": "Credits: one per module action",
+      "included_first_paid_plan": "5,000 credits; size up on the credit slider",
+      "last_price_change_month": null,
+      "months_tracked": 2,
+      "verified": "2026-09-11"
+    },
+    {
+      "tool": "n8n",
+      "slug": "n8n",
+      "pricing_url": "https://n8n.io/pricing/",
+      "free_tier": "None on n8n Cloud (trial); self-hosting is free",
+      "starting_paid_price": "€20 a month (Starter, annual billing)",
+      "starting_paid_price_usd_month": 22,
+      "billing_unit": "Executions: one per full workflow run, any step count",
+      "included_first_paid_plan": "2,500 executions, 5 concurrent, 1 shared project; Pro €50",
+      "last_price_change_month": "2026-09",
+      "months_tracked": 22,
+      "verified": "2026-09-11"
+    },
+    {
+      "tool": "Activepieces",
+      "slug": "activepieces",
+      "pricing_url": "https://www.activepieces.com/pricing",
+      "free_tier": "Yes, 100 credits a day",
+      "starting_paid_price": "$16 a month (Plus, yearly billing)",
+      "starting_paid_price_usd_month": 16,
+      "billing_unit": "Credits: one per run, $0.007 each beyond the plan",
+      "included_first_paid_plan": "10,000 credits; Team $166",
+      "last_price_change_month": "2026-09",
+      "months_tracked": 28,
+      "verified": "2026-09-11"
+    },
+    {
+      "tool": "Pipedream",
+      "slug": "pipedream",
+      "pricing_url": "https://pipedream.com/pricing",
+      "free_tier": "Yes, $0 plan",
+      "starting_paid_price": "$29 a month (first paid tier, annual billing)",
+      "starting_paid_price_usd_month": 29,
+      "billing_unit": "Credits per workflow execution (compute time)",
+      "included_first_paid_plan": "Tiers at $29, $49 and $99 a month on the page",
+      "last_price_change_month": "2025-05",
+      "months_tracked": 24,
+      "verified": "2026-09-11"
+    },
+    {
+      "tool": "Gumloop",
+      "slug": "gumloop",
+      "pricing_url": "https://www.gumloop.com/pricing",
+      "free_tier": "No free plan; 14-day trial",
+      "starting_paid_price": "$37 a month (Pro)",
+      "starting_paid_price_usd_month": 37,
+      "billing_unit": "Credits per node run; 8% orchestration fee on your own model keys",
+      "included_first_paid_plan": "20,000 credits; Enterprise on request",
+      "last_price_change_month": "2026-04",
+      "months_tracked": 26,
+      "verified": "2026-09-11"
+    },
+    {
+      "tool": "Lindy",
+      "slug": "lindy",
+      "pricing_url": "https://www.lindy.ai/pricing",
+      "free_tier": "Trial only",
+      "starting_paid_price": "$29.99 per seat a month (Plus)",
+      "starting_paid_price_usd_month": 29.99,
+      "billing_unit": "Credits per task: 2 to 250 for an everyday ask, up to 1,000 for a research report",
+      "included_first_paid_plan": "3,000 credits; Pro $99.99 for 15,000; Max $199.99 for 35,000",
+      "last_price_change_month": "2026-09",
+      "months_tracked": 19,
+      "verified": "2026-09-11"
+    },
+    {
+      "tool": "Relevance AI",
+      "slug": "relevanceai",
+      "pricing_url": "https://relevanceai.com/pricing",
+      "free_tier": "Not shown on the page",
+      "starting_paid_price": "Not published on the pricing page (sign-in or contact)",
+      "starting_paid_price_usd_month": null,
+      "billing_unit": "Credits per action (per the product docs)",
+      "included_first_paid_plan": "Not published",
+      "last_price_change_month": "2026-05",
+      "months_tracked": 27,
+      "verified": "2026-09-11"
+    },
+    {
+      "tool": "Voiceflow",
+      "slug": "voiceflow",
+      "pricing_url": "https://www.voiceflow.com/pricing",
+      "free_tier": "Not shown on the page",
+      "starting_paid_price": "Not published on the pricing page (contact sales)",
+      "starting_paid_price_usd_month": null,
+      "billing_unit": "Per agent and per seat (per the product docs)",
+      "included_first_paid_plan": "Not published",
+      "last_price_change_month": "2025-07",
+      "months_tracked": 18,
+      "verified": "2026-09-11"
+    },
+    {
+      "tool": "Botpress",
+      "slug": "botpress",
+      "pricing_url": "https://botpress.com/pricing",
+      "free_tier": "Yes, $0 pay-as-you-go",
+      "starting_paid_price": "$25 a month (first paid tier on the page)",
+      "starting_paid_price_usd_month": 25,
+      "billing_unit": "AI spend per message plus monthly plan; $0.10 and $0.50 per-unit rates on the page",
+      "included_first_paid_plan": "Higher tiers at $40 and $150 a month on the page",
+      "last_price_change_month": "2026-08",
+      "months_tracked": 18,
+      "verified": "2026-09-11"
+    },
+    {
+      "tool": "Stack AI",
+      "slug": "stack-ai",
+      "pricing_url": "https://www.stack-ai.com/pricing",
+      "free_tier": "Yes, $0: 500 runs a month, 2 projects, 1 seat",
+      "starting_paid_price": "Paid tiers not shown with a figure on the page",
+      "starting_paid_price_usd_month": null,
+      "billing_unit": "Runs per month, seats",
+      "included_first_paid_plan": "Not published",
+      "last_price_change_month": "2025-05",
+      "months_tracked": 18,
+      "verified": "2026-09-11"
+    },
+    {
+      "tool": "Dify",
+      "slug": "dify",
+      "pricing_url": "https://dify.ai/pricing",
+      "free_tier": "Yes, Sandbox",
+      "starting_paid_price": "$590 a year on the page's first paid tier ($159 a month on the next)",
+      "starting_paid_price_usd_month": 49,
+      "billing_unit": "Message credits and workspace members",
+      "included_first_paid_plan": "Figures on the page: $590 yearly, $159 monthly",
+      "last_price_change_month": "2026-07",
+      "months_tracked": 29,
+      "verified": "2026-09-11"
+    },
+    {
+      "tool": "Vellum",
+      "slug": "vellum",
+      "pricing_url": "https://www.vellum.ai/pricing",
+      "free_tier": "Not shown as a plan; $1 figure appears on the page",
+      "starting_paid_price": "$30 a month (first paid tier on the page)",
+      "starting_paid_price_usd_month": 30,
+      "billing_unit": "Per seat and usage",
+      "included_first_paid_plan": "Tiers at $30, $100 and $200 a month on the page",
+      "last_price_change_month": "2026-09",
+      "months_tracked": 14,
+      "verified": "2026-09-11"
+    },
+    {
+      "tool": "Taskade",
+      "slug": "taskade",
+      "pricing_url": "https://www.taskade.com/pricing",
+      "free_tier": "Yes",
+      "starting_paid_price": "$10 a month (first paid tier, annual billing)",
+      "starting_paid_price_usd_month": 10,
+      "billing_unit": "Seats and AI usage",
+      "included_first_paid_plan": "Tiers at $10, $25, $100 and $250 a month on the page",
+      "last_price_change_month": "2026-09",
+      "months_tracked": 32,
+      "verified": "2026-09-11"
+    },
+    {
+      "tool": "Bardeen",
+      "slug": "bardeen",
+      "pricing_url": "https://www.bardeen.ai/pricing",
+      "free_tier": "Not shown on the page",
+      "starting_paid_price": "Not published on the pricing page as read",
+      "starting_paid_price_usd_month": null,
+      "billing_unit": "Credits per action (per the product docs)",
+      "included_first_paid_plan": "Not published",
+      "last_price_change_month": "2025-03",
+      "months_tracked": 18,
+      "verified": "2026-09-11"
+    },
+    {
+      "tool": "Gravity",
+      "slug": "gravity",
+      "pricing_url": "https://gravity.fast/pricing",
+      "free_tier": "Yes, your first agent, no card",
+      "starting_paid_price": "$20 a month (Autopilot); INR 1,999 in India, Minipilot INR 399",
+      "starting_paid_price_usd_month": 20,
+      "billing_unit": "Flat monthly plan with a lot of usage included; buy more usage if you run out",
+      "included_first_paid_plan": "A lot of usage; the agent is built and kept working by its builder",
+      "last_price_change_month": null,
+      "months_tracked": 1,
+      "verified": "2026-09-11"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-09-11",
+      "tool": "Relay.app",
+      "change": "Relay.app closed for paying customers on 14 September 2026 (free accounts on 15 August); it is no longer tracked",
+      "source": "https://relay.app/"
+    },
+    {
+      "date": "2026-07-01",
+      "tool": "Zapier",
+      "change": "the page's plan-price set moved from $13/$33/$66 style annual figures to $13.33/$19.99/$33.33 style figures (monthly-equivalent display), per our July snapshot",
+      "source": "https://web.archive.org/web/2026/https://zapier.com/pricing"
+    },
+    {
+      "date": "2025-10-01",
+      "tool": "Zapier",
+      "change": "annual-billing figures ($13, $33, $66 a month) appeared next to the monthly ones on the page, per our October 2025 snapshot",
+      "source": "https://web.archive.org/web/2025/https://zapier.com/pricing"
+    },
+    {
+      "date": "2025-04-04",
+      "tool": "n8n",
+      "change": "a €60 figure joined the page's plan set alongside €20, €24 and €50, per our April 2025 snapshot",
+      "source": "https://web.archive.org/web/2025/https://n8n.io/pricing/"
+    },
+    {
+      "date": "2025-07-01",
+      "tool": "Activepieces",
+      "change": "the page's plan set changed to $0, $25 and $150 a month, per our July 2025 snapshot; by September 2026 Plus is $16 a month yearly with a per-credit overage",
+      "source": "https://web.archive.org/web/2025/https://www.activepieces.com/pricing"
+    }
+  ]
+}
