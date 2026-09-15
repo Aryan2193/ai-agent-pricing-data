@@ -1,12 +1,12 @@
 {
-  "generated": "2026-09-11",
+  "generated": "2026-09-15",
   "tools": {
     "zapier": {
       "name": "Zapier",
       "url": "https://zapier.com/pricing",
-      "snapshots": 18,
+      "snapshots": 19,
       "first": "2025-05-04",
-      "last": "2026-09-11",
+      "last": "2026-09-15",
       "periods": [
         {
           "key": "$0/mo $19 $20/mo $50/mo $69/mo",
@@ -60,8 +60,8 @@
         {
           "key": "$0/month $13.33/month $160 $19.99/month $33.33/month $400 $66.67/month $69/month $800",
           "from": "2026-07-01",
-          "until": "2026-09-11",
-          "confirmations": 4,
+          "until": "2026-09-15",
+          "confirmations": 5,
           "source": "https://web.archive.org/web/20260701130346/https://zapier.com/pricing",
           "prices": [
             "$0/month",
@@ -122,9 +122,9 @@
     "n8n": {
       "name": "n8n",
       "url": "https://n8n.io/pricing/",
-      "snapshots": 22,
+      "snapshots": 23,
       "first": "2024-01-08",
-      "last": "2026-09-11",
+      "last": "2026-09-15",
       "periods": [
         {
           "key": "$5",
@@ -227,8 +227,8 @@
         {
           "key": "20€/mo 50€/mo 667€/mo",
           "from": "2026-09-11",
-          "until": "2026-09-11",
-          "confirmations": 1,
+          "until": "2026-09-15",
+          "confirmations": 2,
           "source": "https://n8n.io/pricing/",
           "prices": [
             "20€/mo",
@@ -460,9 +460,9 @@
     "pipedream": {
       "name": "Pipedream",
       "url": "https://pipedream.com/pricing",
-      "snapshots": 24,
+      "snapshots": 25,
       "first": "2024-01-12",
-      "last": "2026-09-11",
+      "last": "2026-09-15",
       "periods": [
         {
           "key": "$0/mo $1188 $19/mo $228 $49/mo $588 $99/mo",
@@ -543,8 +543,8 @@
         {
           "key": "$0/mo $1188 $2 $29/mo $348 $49/mo $588 $99/mo",
           "from": "2025-05-09",
-          "until": "2026-09-11",
-          "confirmations": 10,
+          "until": "2026-09-15",
+          "confirmations": 11,
           "source": "https://web.archive.org/web/20250509233545/https://pipedream.com/pricing",
           "prices": [
             "$0/mo",
@@ -572,9 +572,9 @@
     "gumloop": {
       "name": "Gumloop",
       "url": "https://www.gumloop.com/pricing",
-      "snapshots": 26,
+      "snapshots": 27,
       "first": "2024-06-12",
-      "last": "2026-09-11",
+      "last": "2026-09-15",
       "periods": [
         {
           "key": "$0/month $297/month $97/month",
@@ -689,8 +689,8 @@
         {
           "key": "$37/month $50",
           "from": "2026-04-14",
-          "until": "2026-09-11",
-          "confirmations": 6,
+          "until": "2026-09-15",
+          "confirmations": 7,
           "source": "https://web.archive.org/web/20260414001824/https://www.gumloop.com/pricing",
           "prices": [
             "$37/month",
@@ -712,9 +712,9 @@
     "lindy": {
       "name": "Lindy",
       "url": "https://www.lindy.ai/pricing",
-      "snapshots": 19,
+      "snapshots": 20,
       "first": "2024-04-13",
-      "last": "2026-09-11",
+      "last": "2026-09-15",
       "periods": [
         {
           "key": "$0 $199/mo $49/mo $99/mo",
@@ -820,8 +820,8 @@
         {
           "key": "$199.99/mo $29.99/mo $99.99/mo",
           "from": "2026-09-03",
-          "until": "2026-09-11",
-          "confirmations": 2,
+          "until": "2026-09-15",
+          "confirmations": 3,
           "source": "https://web.archive.org/web/20260903091121/https://www.lindy.ai/pricing",
           "prices": [
             "$199.99/mo",
@@ -1252,9 +1252,9 @@
     "botpress": {
       "name": "Botpress",
       "url": "https://botpress.com/pricing",
-      "snapshots": 18,
+      "snapshots": 19,
       "first": "2024-03-02",
-      "last": "2026-09-11",
+      "last": "2026-09-15",
       "periods": [
         {
           "key": "$0 $1 $1/month $10 $10/month $100 $100/month $1000 $1000/month $2 $25 $25/month $37 $495 $5",
@@ -1668,8 +1668,8 @@
         {
           "key": "$0 $0.10 $0.50 $0.65 $150 $150/mo $25 $40/mo $50 $65 $750/mo",
           "from": "2026-08-24",
-          "until": "2026-09-11",
-          "confirmations": 3,
+          "until": "2026-09-15",
+          "confirmations": 4,
           "source": "https://web.archive.org/web/20260824212612/https://botpress.com/pricing",
           "prices": [
             "$0",
@@ -1769,9 +1769,9 @@
     "dify": {
       "name": "Dify",
       "url": "https://dify.ai/pricing",
-      "snapshots": 29,
+      "snapshots": 30,
       "first": "2024-01-13",
-      "last": "2026-09-11",
+      "last": "2026-09-15",
       "periods": [
         {
           "key": "$159 $59",
@@ -1844,8 +1844,8 @@
         {
           "key": "$159 $590",
           "from": "2026-07-08",
-          "until": "2026-09-11",
-          "confirmations": 4,
+          "until": "2026-09-15",
+          "confirmations": 5,
           "source": "https://web.archive.org/web/20260708111510/https://dify.ai/pricing",
           "prices": [
             "$159",
@@ -1867,9 +1867,9 @@
     "vellum": {
       "name": "Vellum",
       "url": "https://www.vellum.ai/pricing",
-      "snapshots": 14,
+      "snapshots": 15,
       "first": "2024-05-26",
-      "last": "2026-09-11",
+      "last": "2026-09-15",
       "periods": [
         {
           "key": "$5",
@@ -1981,8 +1981,8 @@
         {
           "key": "$1 $100/month $200/month $30/month",
           "from": "2026-09-11",
-          "until": "2026-09-11",
-          "confirmations": 1,
+          "until": "2026-09-15",
+          "confirmations": 2,
           "source": "https://www.vellum.ai/pricing",
           "prices": [
             "$1",
@@ -2503,9 +2503,9 @@
     "gravity": {
       "name": "Gravity",
       "url": "https://gravity.fast/pricing?geo=row",
-      "snapshots": 1,
+      "snapshots": 2,
       "first": "2026-09-11",
-      "last": "2026-09-11",
+      "last": "2026-09-15",
       "periods": [
         {
           "key": "$0 $20 $20/mo $20/month",
@@ -2522,6 +2522,33 @@
           "plans": [
             "Free",
             "Your first agent, free to run"
+          ]
+        },
+        {
+          "key": "$0.00 $0.42 $0permonth $20 $20permonth $5 $5/mo $5permonth",
+          "from": "2026-09-15",
+          "until": "2026-09-15",
+          "confirmations": 1,
+          "source": "https://gravity.fast/pricing?geo=row",
+          "prices": [
+            "$0.00",
+            "$0.42",
+            "$0permonth",
+            "$20",
+            "$20permonth",
+            "$5",
+            "$5/mo",
+            "$5permonth"
+          ],
+          "plans": [
+            "Basic Plan",
+            "Consists of all the basic features.",
+            "Start for free",
+            "Free, forever",
+            "One free agent",
+            "Pro Plan",
+            "Advanced features",
+            "Start with Pro"
           ]
         }
       ]

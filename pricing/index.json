@@ -1,6 +1,6 @@
 {
   "license": "CC BY 4.0, attribution: Gravity, https://gravity.fast/blog/ai-agent-pricing-index/",
-  "verified": "2026-09-11",
+  "verified": "2026-09-15",
   "generated": "2026-09-15",
   "tools": [
     {
@@ -15,10 +15,10 @@
       "billing_unit": "Tasks: one per step, more for AI steps",
       "included_first_paid_plan": "Slider from 750 tasks; Team from $69",
       "last_price_change_month": "2026-07",
-      "snapshots": 18,
+      "snapshots": 19,
       "first_snapshot": "2025-05-04",
-      "last_snapshot": "2026-09-11",
-      "verified": "2026-09-11"
+      "last_snapshot": "2026-09-15",
+      "verified": "2026-09-15"
     },
     {
       "tool": "Make",
@@ -26,7 +26,7 @@
       "pricing_url": "https://www.make.com/en/pricing",
       "confidence": "verified",
       "free_tier": "Yes, 1,000 credits a month, 15-minute minimum interval",
-      "starting_paid_price": "$9 a month for 5,000 credits",
+      "starting_paid_price": "$9 a month for 5,000 credits (Make Plan, annual billing; $10.59 monthly)",
       "starting_paid_price_usd_month_normalised": 9,
       "normalisation": "as published",
       "billing_unit": "Credits: one per module action",
@@ -35,7 +35,7 @@
       "snapshots": 2,
       "first_snapshot": "2024-01-28",
       "last_snapshot": "2025-02-08",
-      "verified": "2026-09-11"
+      "verified": "2026-09-15"
     },
     {
       "tool": "n8n",
@@ -49,10 +49,10 @@
       "billing_unit": "Executions: one per full workflow run, any step count",
       "included_first_paid_plan": "2,500 executions, 5 concurrent, 1 shared project; Pro €50",
       "last_price_change_month": "2026-09",
-      "snapshots": 22,
+      "snapshots": 23,
       "first_snapshot": "2024-01-08",
-      "last_snapshot": "2026-09-11",
-      "verified": "2026-09-11"
+      "last_snapshot": "2026-09-15",
+      "verified": "2026-09-15"
     },
     {
       "tool": "Activepieces",
@@ -60,16 +60,16 @@
       "pricing_url": "https://www.activepieces.com/pricing",
       "confidence": "verified",
       "free_tier": "Yes, 100 credits a day",
-      "starting_paid_price": "$16 a month (Plus, yearly billing)",
+      "starting_paid_price": "$16 a month (Plus, yearly billing; $20 on monthly billing)",
       "starting_paid_price_usd_month_normalised": 16,
       "normalisation": "as published",
       "billing_unit": "Credits: one per run, $0.007 each beyond the plan",
-      "included_first_paid_plan": "10,000 credits; Team $166",
+      "included_first_paid_plan": "10,000 credits; Team $166 yearly ($200 monthly); Embed from $36k a year",
       "last_price_change_month": "2026-09",
       "snapshots": 28,
       "first_snapshot": "2024-01-09",
       "last_snapshot": "2026-09-11",
-      "verified": "2026-09-11"
+      "verified": "2026-09-15"
     },
     {
       "tool": "Pipedream",
@@ -83,10 +83,10 @@
       "billing_unit": "Credits per workflow execution (compute time)",
       "included_first_paid_plan": "Tiers at $29, $49 and $99 a month on the page",
       "last_price_change_month": "2025-05",
-      "snapshots": 24,
+      "snapshots": 25,
       "first_snapshot": "2024-01-12",
-      "last_snapshot": "2026-09-11",
-      "verified": "2026-09-11"
+      "last_snapshot": "2026-09-15",
+      "verified": "2026-09-15"
     },
     {
       "tool": "Gumloop",
@@ -100,10 +100,10 @@
       "billing_unit": "Credits per node run; 8% orchestration fee on your own model keys",
       "included_first_paid_plan": "20,000 credits; Enterprise on request",
       "last_price_change_month": "2026-04",
-      "snapshots": 26,
+      "snapshots": 27,
       "first_snapshot": "2024-06-12",
-      "last_snapshot": "2026-09-11",
-      "verified": "2026-09-11"
+      "last_snapshot": "2026-09-15",
+      "verified": "2026-09-15"
     },
     {
       "tool": "Lindy",
@@ -117,10 +117,10 @@
       "billing_unit": "Credits per task: 2 to 250 for an everyday ask, up to 1,000 for a research report",
       "included_first_paid_plan": "3,000 credits; Pro $99.99 for 15,000; Max $199.99 for 35,000",
       "last_price_change_month": "2026-09",
-      "snapshots": 19,
+      "snapshots": 20,
       "first_snapshot": "2024-04-13",
-      "last_snapshot": "2026-09-11",
-      "verified": "2026-09-11"
+      "last_snapshot": "2026-09-15",
+      "verified": "2026-09-15"
     },
     {
       "tool": "Relevance AI",
@@ -137,7 +137,7 @@
       "snapshots": 27,
       "first_snapshot": "2024-03-13",
       "last_snapshot": "2026-05-13",
-      "verified": "2026-09-11"
+      "verified": "2026-09-15"
     },
     {
       "tool": "Voiceflow",
@@ -154,7 +154,7 @@
       "snapshots": 18,
       "first_snapshot": "2024-01-08",
       "last_snapshot": "2026-01-06",
-      "verified": "2026-09-11"
+      "verified": "2026-09-15"
     },
     {
       "tool": "Botpress",
@@ -168,10 +168,10 @@
       "billing_unit": "AI spend per message plus monthly plan; $0.10 and $0.50 per-unit rates on the page",
       "included_first_paid_plan": "Higher tiers at $40 and $150 a month on the page",
       "last_price_change_month": "2026-08",
-      "snapshots": 18,
+      "snapshots": 19,
       "first_snapshot": "2024-03-02",
-      "last_snapshot": "2026-09-11",
-      "verified": "2026-09-11"
+      "last_snapshot": "2026-09-15",
+      "verified": "2026-09-15"
     },
     {
       "tool": "Stack AI",
@@ -188,7 +188,7 @@
       "snapshots": 18,
       "first_snapshot": "2024-01-14",
       "last_snapshot": "2026-09-11",
-      "verified": "2026-09-11"
+      "verified": "2026-09-15"
     },
     {
       "tool": "Dify",
@@ -202,10 +202,10 @@
       "billing_unit": "Message credits and workspace members",
       "included_first_paid_plan": "Figures on the page: $590 yearly, $159 monthly",
       "last_price_change_month": "2026-07",
-      "snapshots": 29,
+      "snapshots": 30,
       "first_snapshot": "2024-01-13",
-      "last_snapshot": "2026-09-11",
-      "verified": "2026-09-11"
+      "last_snapshot": "2026-09-15",
+      "verified": "2026-09-15"
     },
     {
       "tool": "Vellum",
@@ -219,10 +219,10 @@
       "billing_unit": "Per seat and usage",
       "included_first_paid_plan": "Tiers at $30, $100 and $200 a month on the page",
       "last_price_change_month": "2026-09",
-      "snapshots": 14,
+      "snapshots": 15,
       "first_snapshot": "2024-05-26",
-      "last_snapshot": "2026-09-11",
-      "verified": "2026-09-11"
+      "last_snapshot": "2026-09-15",
+      "verified": "2026-09-15"
     },
     {
       "tool": "Taskade",
@@ -233,13 +233,13 @@
       "starting_paid_price": "$10 a month (first paid tier, annual billing)",
       "starting_paid_price_usd_month_normalised": 10,
       "normalisation": "as published",
-      "billing_unit": "Seats and AI usage",
+      "billing_unit": "Seats and AI usage; top-up packs at $5 for 9,000 credits, $20 for 45,000 and $50 for 125,000",
       "included_first_paid_plan": "Tiers at $10, $25, $100 and $250 a month on the page",
       "last_price_change_month": "2026-09",
       "snapshots": 32,
       "first_snapshot": "2024-01-03",
       "last_snapshot": "2026-09-11",
-      "verified": "2026-09-11"
+      "verified": "2026-09-15"
     },
     {
       "tool": "Bardeen",
@@ -256,7 +256,7 @@
       "snapshots": 18,
       "first_snapshot": "2024-01-09",
       "last_snapshot": "2025-11-12",
-      "verified": "2026-09-11"
+      "verified": "2026-09-15"
     },
     {
       "tool": "Gravity",
@@ -269,11 +269,11 @@
       "normalisation": "as published",
       "billing_unit": "Flat monthly plan with a lot of usage included; buy more usage if you run out",
       "included_first_paid_plan": "A lot of usage; the agent is built and kept working by its builder",
-      "last_price_change_month": null,
-      "snapshots": 1,
+      "last_price_change_month": "2026-09",
+      "snapshots": 2,
       "first_snapshot": "2026-09-11",
-      "last_snapshot": "2026-09-11",
-      "verified": "2026-09-11"
+      "last_snapshot": "2026-09-15",
+      "verified": "2026-09-15"
     }
   ],
   "changelog": [
