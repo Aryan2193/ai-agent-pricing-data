@@ -1,0 +1,44 @@
+rank,framework,repo,type,language,license,stars,stars_gained_30d,stars_30d_basis,commits_30d,commits_90d,active_contributors_90d,open_issues,closed_issues,latest_github_release,latest_release_date,github_releases_30d,package,weekly_downloads,archived,score,date
+1,Dify,langgenius/dify,Visual builder,Python,NOASSERTION,161014,2689,snapshot 2026-10-13,1026,2556,273,563,19263,1.19.0,2026-11-04,2,,,false,95.6,2026-11-12
+2,n8n,n8n-io/n8n,Visual builder,TypeScript,NOASSERTION,210253,3072,snapshot 2026-10-13,1589,4207,188,343,10374,n8n@2.48.2,2026-11-12,28,npm:n8n,149562,false,93.6,2026-11-12
+3,LangChain,langchain-ai/langchain,Code framework,Python,MIT,149390,1657,snapshot 2026-10-13,203,585,53,598,10038,langchain-typesafe==0.1.0,2026-11-11,30,pypi:langchain,35002026,false,82.2,2026-11-12
+4,Mastra,mastra-ai/mastra,Code framework,TypeScript,NOASSERTION,29479,724,snapshot 2026-10-13,2131,5172,113,418,6934,@mastra/core@1.82.0,2026-11-04,7,npm:@mastra/core,3250887,false,80.8,2026-11-12
+5,AutoGPT,Significant-Gravitas/AutoGPT,Visual builder,Python,NOASSERTION,187995,450,snapshot 2026-10-13,860,1644,50,319,3975,autogpt-platform-beta-v0.11.2,2026-11-11,6,,,false,80,2026-11-12
+6,Vercel AI SDK,vercel/ai,Code framework,TypeScript,NOASSERTION,27880,588,snapshot 2026-10-13,588,1685,129,488,4722,@ai-sdk/workflow-harness@1.0.181,2026-11-11,30,npm:ai,45363657,false,78.8,2026-11-12
+7,CrewAI,crewAIInc/crewAI,Code framework,Python,MIT,60802,1167,snapshot 2026-10-13,218,436,82,502,2399,1.15.40,2026-11-11,13,pypi:crewai,617377,false,78.4,2026-11-12
+8,AgentScope,agentscope-ai/agentscope,Code framework,Python,Apache-2.0,35846,2678,snapshot 2026-10-13,199,478,150,394,1179,v2.0.11,2026-10-27,1,pypi:agentscope,146405,false,75.9,2026-11-12
+9,Langflow,langflow-ai/langflow,Visual builder,Python,MIT,156557,973,snapshot 2026-10-13,252,892,50,215,3397,v1.13.2,2026-11-10,8,pypi:langflow,15017,false,74.7,2026-11-12
+10,Pipecat,pipecat-ai/pipecat,Voice agents,Python,BSD-2-Clause,17214,800,snapshot 2026-10-13,1567,4005,133,132,1343,v1.16.0,2026-11-12,4,pypi:pipecat-ai,366418,false,73.1,2026-11-12
+11,Pydantic AI,pydantic/pydantic-ai,Code framework,Python,MIT,21159,571,snapshot 2026-10-13,1379,2612,122,1384,3658,v2.68.0,2026-11-12,16,pypi:pydantic-ai,1527090,false,73,2026-11-12
+12,LangGraph,langchain-ai/langgraph,Code framework,Python,MIT,44836,1655,snapshot 2026-10-13,128,250,24,348,1428,cli==0.4.42,2026-11-06,25,pypi:langgraph,14005973,false,72.7,2026-11-12
+13,Agno,agno-agi/agno,Code framework,Python,Apache-2.0,43166,470,snapshot 2026-10-13,177,418,118,947,2404,v3.1.12,2026-10-29,9,pypi:agno,548859,false,70.3,2026-11-12
+14,Google ADK,google/adk-python,Code framework,Python,Apache-2.0,22187,396,snapshot 2026-10-13,535,1520,280,203,3254,v2.14.0,2026-11-07,3,pypi:google-adk,2562598,false,70.3,2026-11-12
+15,OpenAI Agents SDK (Python),openai/openai-agents-python,Code framework,Python,MIT,30631,632,snapshot 2026-10-13,97,510,73,26,1644,v0.24.0-alpha.7,2026-11-08,3,pypi:openai-agents,4215414,false,69.6,2026-11-12
+16,LiveKit Agents,livekit/agents,Voice agents,Python,Apache-2.0,15191,472,snapshot 2026-10-13,275,642,203,253,2081,livekit-agents@1.8.11,2026-11-05,5,pypi:livekit-agents,1248905,false,66.8,2026-11-12
+17,Activepieces,activepieces/activepieces,Visual builder,TypeScript,NOASSERTION,25490,461,snapshot 2026-10-13,568,1379,30,484,2861,0.93.0,2026-11-08,10,,,false,65.5,2026-11-12
+18,Haystack,deepset-ai/haystack,Code framework,Python,Apache-2.0,26995,264,snapshot 2026-10-13,294,798,170,91,4580,v3.5.0,2026-11-10,9,pypi:haystack-ai,151374,false,65.2,2026-11-12
+19,Microsoft Agent Framework,microsoft/agent-framework,Code framework,Python,MIT,14642,534,snapshot 2026-10-13,423,1177,177,680,3380,python-1.25.0,2026-11-07,8,pypi:agent-framework,47296,false,65.1,2026-11-12
+20,DSPy,stanfordnlp/dspy,Code framework,Python,MIT,39016,413,snapshot 2026-10-13,104,240,52,345,1412,3.5.0,2026-11-10,1,pypi:dspy,1294490,false,64,2026-11-12
+21,Strands Agents,strands-agents/harness-sdk,Code framework,TypeScript,Apache-2.0,9188,398,snapshot 2026-10-13,370,856,126,678,1293,harness-cli/v0.3.0,2026-11-10,24,pypi:strands-agents,8854589,false,62.3,2026-11-12
+22,LlamaIndex,run-llama/llama_index,Code framework,Python,MIT,52882,413,snapshot 2026-10-13,8,77,39,399,7111,v0.14.25,2026-09-21,0,pypi:llama-index,411197,false,54,2026-11-12
+23,Semantic Kernel,microsoft/semantic-kernel,Code framework,C#,MIT,28759,101,snapshot 2026-10-13,92,136,55,95,4936,dotnet-1.82.0,2026-11-07,3,pypi:semantic-kernel,82016,false,52.3,2026-11-12
+24,AutoGen,microsoft/autogen,Code framework,Python,CC-BY-4.0,61789,403,snapshot 2026-10-13,2,2,1,575,2532,python-v0.7.5,2025-09-30,0,pypi:autogen-agentchat,106936,false,42.2,2026-11-12
+25,Swarms,kyegomez/swarms,Code framework,Python,Apache-2.0,7370,121,snapshot 2026-10-13,279,528,19,206,871,6.8.1,2026-11-02,0,pypi:swarms,2112,false,41.5,2026-11-12
+26,LangGraph.js,langchain-ai/langgraphjs,Code framework,TypeScript,MIT,3413,61,snapshot 2026-10-13,135,262,28,89,461,@langchain/langgraph-cli@1.7.1,2026-11-09,30,npm:@langchain/langgraph,4908272,false,40.7,2026-11-12
+27,smolagents,huggingface/smolagents,Code framework,Python,Apache-2.0,30327,516,snapshot 2026-10-13,0,7,2,431,547,v1.26.0,2026-05-29,0,pypi:smolagents,214466,false,40.1,2026-11-12
+28,AG2,ag2ai/ag2,Code framework,Python,Apache-2.0,5060,67,snapshot 2026-10-13,133,307,46,26,915,v.1.3.1,2026-11-10,4,pypi:ag2,55370,false,39.9,2026-11-12
+29,VoltAgent,VoltAgent/voltagent,Code framework,TypeScript,MIT,10963,191,snapshot 2026-10-13,11,19,12,54,251,@voltagent/core@2.11.1,2026-11-04,1,npm:@voltagent/core,42536,false,38.2,2026-11-12
+30,OpenAI Agents SDK (JS),openai/openai-agents-js,Code framework,TypeScript,MIT,4009,98,snapshot 2026-10-13,52,316,17,29,453,v0.22.0-alpha.2,2026-11-08,7,npm:@openai/agents,2364724,false,36.6,2026-11-12
+31,MetaGPT,FoundationAgents/MetaGPT,Code framework,Python,MIT,71259,428,snapshot 2026-10-13,0,0,0,10,982,v0.8.2,2025-03-09,0,pypi:metagpt,1214,false,36.3,2026-11-12
+32,Letta,letta-ai/letta,Code framework,,Apache-2.0,25421,299,snapshot 2026-10-13,2,7,2,0,1308,0.16.8,2026-10-12,0,pypi:letta,2503,false,34.3,2026-11-12
+33,CAMEL,camel-ai/camel,Code framework,Python,Apache-2.0,18028,152,snapshot 2026-10-13,4,32,13,308,1341,v0.2.91a7,2026-09-03,0,pypi:camel-ai,13084,false,34,2026-11-12
+34,BeeAI Framework,i-am-bee/beeai-framework,Code framework,Python,Apache-2.0,3459,28,snapshot 2026-10-13,99,198,61,11,600,typescript_v0.1.32,2026-11-02,2,pypi:beeai-framework,8117,false,33.2,2026-11-12
+35,Atomic Agents,Eigenwise/atomic-agents,Code framework,Python,MIT,6327,43,snapshot 2026-10-13,47,116,20,1,118,v2.15.0,2026-10-21,7,pypi:atomic-agents,4790,false,30.7,2026-11-12
+36,Flowise,FlowiseAI/Flowise,Visual builder,TypeScript,NOASSERTION,55568,70,snapshot 2026-10-13,0,0,0,700,1972,flowise@3.1.4,2026-07-29,0,npm:flowise,12540,true,30,2026-11-12
+37,Langroid,langroid/langroid,Code framework,Python,MIT,4146,33,snapshot 2026-10-13,55,194,22,43,245,0.69.22,2026-11-09,15,pypi:langroid,12230,false,29.8,2026-11-12
+38,Agency Swarm,VRSEN/agency-swarm,Code framework,Python,MIT,4635,37,snapshot 2026-10-13,11,98,7,1,190,v2.0.0-beta.1,2026-10-30,1,pypi:agency-swarm,2274,false,26,2026-11-12
+39,Coze Studio,coze-dev/coze-studio,Visual builder,TypeScript,Apache-2.0,21818,116,snapshot 2026-10-13,0,0,0,501,562,v0.5.1,2026-02-05,0,,,false,22.3,2026-11-12
+40,SuperAGI,TransformerOptimus/SuperAGI,Code framework,Python,MIT,17746,44,snapshot 2026-10-13,0,0,0,193,285,v0.0.14,2024-01-16,0,,,false,17.1,2026-11-12
+41,Agent Squad,2FastLabs/agent-squad,Code framework,Python,Apache-2.0,7802,11,snapshot 2026-10-13,0,15,2,43,160,typescript_1.1.5,2026-09-23,0,pypi:agent-squad,1256,false,15.4,2026-11-12
+42,Upsonic,Upsonic/Upsonic,Code framework,Python,MIT,7971,14,snapshot 2026-10-13,0,0,0,18,167,v0.77.3,2026-05-19,0,pypi:upsonic,1063,false,9,2026-11-12
+43,Inngest AgentKit,inngest/agent-kit,Code framework,TypeScript,Apache-2.0,963,17,snapshot 2026-10-13,0,0,0,39,36,@inngest/agent-kit@0.13.2,2025-11-13,0,npm:@inngest/agent-kit,32052,false,6.8,2026-11-12

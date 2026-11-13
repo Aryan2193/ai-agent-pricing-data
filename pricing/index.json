@@ -1,7 +1,7 @@
 {
   "license": "CC BY 4.0, attribution: Gravity, https://gravity.fast/blog/ai-agent-pricing-index/",
-  "verified": "2026-09-15",
-  "generated": "2026-09-15",
+  "verified": "2026-11-13",
+  "generated": "2026-11-13",
   "tools": [
     {
       "tool": "Zapier",
@@ -15,10 +15,10 @@
       "billing_unit": "Tasks: one per step, more for AI steps",
       "included_first_paid_plan": "Slider from 750 tasks; Team from $69",
       "last_price_change_month": "2026-07",
-      "snapshots": 19,
+      "snapshots": 29,
       "first_snapshot": "2025-05-04",
-      "last_snapshot": "2026-09-15",
-      "verified": "2026-09-15"
+      "last_snapshot": "2026-11-13",
+      "verified": "2026-11-13"
     },
     {
       "tool": "Make",
@@ -26,16 +26,16 @@
       "pricing_url": "https://www.make.com/en/pricing",
       "confidence": "verified",
       "free_tier": "Yes, 1,000 credits a month, 15-minute minimum interval",
-      "starting_paid_price": "$9 a month for 5,000 credits (Make Plan, annual billing; $10.59 monthly)",
-      "starting_paid_price_usd_month_normalised": 9,
+      "starting_paid_price": "$12 a month for 10,000 credits (Core, annual billing; $16 monthly; US list re-read 13 Nov 2026, the $9 Make Plan is the India and Australia list)",
+      "starting_paid_price_usd_month_normalised": 12,
       "normalisation": "as published",
       "billing_unit": "Credits: one per module action",
-      "included_first_paid_plan": "5,000 credits; size up on the credit slider",
+      "included_first_paid_plan": "10,000 credits; Pro, Teams and Enterprise above",
       "last_price_change_month": null,
       "snapshots": 2,
       "first_snapshot": "2024-01-28",
       "last_snapshot": "2025-02-08",
-      "verified": "2026-09-15"
+      "verified": "2026-11-13"
     },
     {
       "tool": "n8n",
@@ -49,10 +49,10 @@
       "billing_unit": "Executions: one per full workflow run, any step count",
       "included_first_paid_plan": "2,500 executions, 5 concurrent, 1 shared project; Pro €50",
       "last_price_change_month": "2026-09",
-      "snapshots": 23,
+      "snapshots": 33,
       "first_snapshot": "2024-01-08",
-      "last_snapshot": "2026-09-15",
-      "verified": "2026-09-15"
+      "last_snapshot": "2026-11-13",
+      "verified": "2026-11-13"
     },
     {
       "tool": "Activepieces",
@@ -66,27 +66,27 @@
       "billing_unit": "Credits: one per run, $0.007 each beyond the plan",
       "included_first_paid_plan": "10,000 credits; Team $166 yearly ($200 monthly); Embed from $36k a year",
       "last_price_change_month": "2026-09",
-      "snapshots": 28,
+      "snapshots": 38,
       "first_snapshot": "2024-01-09",
-      "last_snapshot": "2026-09-11",
-      "verified": "2026-09-15"
+      "last_snapshot": "2026-11-13",
+      "verified": "2026-11-13"
     },
     {
       "tool": "Pipedream",
       "slug": "pipedream",
       "pricing_url": "https://pipedream.com/pricing",
-      "confidence": "page-figure",
-      "free_tier": "Yes, $0 plan",
-      "starting_paid_price": "$29 a month (first paid tier, annual billing)",
-      "starting_paid_price_usd_month_normalised": 29,
+      "confidence": "verified",
+      "free_tier": "Yes, $0 plan for building and testing (development only, no production environment)",
+      "starting_paid_price": "$99 a month (Startup, annual billing; $150 billed monthly)",
+      "starting_paid_price_usd_month_normalised": 99,
       "normalisation": "as published",
-      "billing_unit": "Credits per workflow execution (compute time)",
-      "included_first_paid_plan": "Tiers at $29, $49 and $99 a month on the page",
-      "last_price_change_month": "2025-05",
-      "snapshots": 25,
+      "billing_unit": "Usage credits ($0.012 each beyond the plan) and external users ($2 each beyond the plan)",
+      "included_first_paid_plan": "Startup: production environment, 10,000 usage credits and 100 external users; Business is custom with volume pricing",
+      "last_price_change_month": "2026-10",
+      "snapshots": 33,
       "first_snapshot": "2024-01-12",
-      "last_snapshot": "2026-09-15",
-      "verified": "2026-09-15"
+      "last_snapshot": "2026-11-13",
+      "verified": "2026-11-13"
     },
     {
       "tool": "Gumloop",
@@ -97,30 +97,30 @@
       "starting_paid_price": "$37 a month (Pro)",
       "starting_paid_price_usd_month_normalised": 37,
       "normalisation": "as published",
-      "billing_unit": "Credits per node run; 8% orchestration fee on your own model keys",
+      "billing_unit": "Credits at the list cost of each task's tokens, compute and tool calls; 8% orchestration fee on that cost, 16% with your own model keys",
       "included_first_paid_plan": "20,000 credits; Enterprise on request",
-      "last_price_change_month": "2026-04",
-      "snapshots": 27,
+      "last_price_change_month": "2026-10",
+      "snapshots": 37,
       "first_snapshot": "2024-06-12",
-      "last_snapshot": "2026-09-15",
-      "verified": "2026-09-15"
+      "last_snapshot": "2026-11-13",
+      "verified": "2026-11-13"
     },
     {
       "tool": "Lindy",
       "slug": "lindy",
       "pricing_url": "https://www.lindy.ai/pricing",
       "confidence": "verified",
-      "free_tier": "Trial only",
-      "starting_paid_price": "$29.99 per seat a month (Plus)",
-      "starting_paid_price_usd_month_normalised": 29.99,
+      "free_tier": "Trial only: $50 in free credits for 7 days, no card",
+      "starting_paid_price": "$49.99 per seat a month (Team, 5,000 credits; the only version served on 13 Nov 2026, though some loads between 10 and 27 Oct got a $29.99 version for 3,000 credits)",
+      "starting_paid_price_usd_month_normalised": 49.99,
       "normalisation": "per_seat",
       "billing_unit": "Credits per task: 2 to 250 for an everyday ask, up to 1,000 for a research report",
-      "included_first_paid_plan": "3,000 credits; Pro $99.99 for 15,000; Max $199.99 for 35,000",
-      "last_price_change_month": "2026-09",
-      "snapshots": 20,
+      "included_first_paid_plan": "Team: 5,000 credits a month at $49.99 per user; a credit dropdown runs up to 1,750,000 for $9,999.50; top-ups $10 per 1,000 credits",
+      "last_price_change_month": "2026-11",
+      "snapshots": 30,
       "first_snapshot": "2024-04-13",
-      "last_snapshot": "2026-09-15",
-      "verified": "2026-09-15"
+      "last_snapshot": "2026-11-13",
+      "verified": "2026-11-13"
     },
     {
       "tool": "Relevance AI",
@@ -137,7 +137,7 @@
       "snapshots": 27,
       "first_snapshot": "2024-03-13",
       "last_snapshot": "2026-05-13",
-      "verified": "2026-09-15"
+      "verified": "2026-11-13"
     },
     {
       "tool": "Voiceflow",
@@ -154,24 +154,24 @@
       "snapshots": 18,
       "first_snapshot": "2024-01-08",
       "last_snapshot": "2026-01-06",
-      "verified": "2026-09-15"
+      "verified": "2026-11-13"
     },
     {
       "tool": "Botpress",
       "slug": "botpress",
       "pricing_url": "https://botpress.com/pricing",
-      "confidence": "page-figure",
-      "free_tier": "Yes, $0 pay-as-you-go",
-      "starting_paid_price": "$25 a month (first paid tier on the page)",
-      "starting_paid_price_usd_month_normalised": 25,
+      "confidence": "verified",
+      "free_tier": "Yes, Free: 100 conversations a month, 3 seats, 3 AI agents, no top-ups",
+      "starting_paid_price": "$150 a month (Plus, billed annually)",
+      "starting_paid_price_usd_month_normalised": 150,
       "normalisation": "as published",
-      "billing_unit": "AI spend per message plus monthly plan; $0.10 and $0.50 per-unit rates on the page",
-      "included_first_paid_plan": "Higher tiers at $40 and $150 a month on the page",
+      "billing_unit": "Conversations a month, plus AI usage (each conversation includes $0.10 of AI usage)",
+      "included_first_paid_plan": "Plus: 250 conversations a month and $25 of AI usage, extra packs of 100 for $65; Team $750 a month billed annually: 1,500 conversations and $150 of AI usage, packs of 100 for $50; storage add-on $40 a month; Enterprise custom",
       "last_price_change_month": "2026-08",
-      "snapshots": 19,
+      "snapshots": 29,
       "first_snapshot": "2024-03-02",
-      "last_snapshot": "2026-09-15",
-      "verified": "2026-09-15"
+      "last_snapshot": "2026-11-13",
+      "verified": "2026-11-13"
     },
     {
       "tool": "Stack AI",
@@ -184,28 +184,28 @@
       "normalisation": null,
       "billing_unit": "Runs per month, seats",
       "included_first_paid_plan": "Not published",
-      "last_price_change_month": "2025-05",
-      "snapshots": 18,
+      "last_price_change_month": "2026-09",
+      "snapshots": 27,
       "first_snapshot": "2024-01-14",
-      "last_snapshot": "2026-09-11",
-      "verified": "2026-09-15"
+      "last_snapshot": "2026-11-13",
+      "verified": "2026-11-13"
     },
     {
       "tool": "Dify",
       "slug": "dify",
       "pricing_url": "https://dify.ai/pricing",
-      "confidence": "page-figure",
-      "free_tier": "Yes, Sandbox",
-      "starting_paid_price": "$590 a year on the page's first paid tier ($159 a month on the next)",
+      "confidence": "verified",
+      "free_tier": "Yes, Sandbox: 200 message credits",
+      "starting_paid_price": "$590 a year per workspace (Professional: 5,000 message credits a month, 3 team members)",
       "starting_paid_price_usd_month_normalised": 49,
       "normalisation": "annual_div_12",
       "billing_unit": "Message credits and workspace members",
-      "included_first_paid_plan": "Figures on the page: $590 yearly, $159 monthly",
+      "included_first_paid_plan": "Team $1,590 a year per workspace: 10,000 message credits a month, 50 team members; Enterprise on request",
       "last_price_change_month": "2026-07",
-      "snapshots": 30,
+      "snapshots": 39,
       "first_snapshot": "2024-01-13",
-      "last_snapshot": "2026-09-15",
-      "verified": "2026-09-15"
+      "last_snapshot": "2026-11-13",
+      "verified": "2026-11-13"
     },
     {
       "tool": "Vellum",
@@ -219,27 +219,27 @@
       "billing_unit": "Per seat and usage",
       "included_first_paid_plan": "Tiers at $30, $100 and $200 a month on the page",
       "last_price_change_month": "2026-09",
-      "snapshots": 15,
+      "snapshots": 24,
       "first_snapshot": "2024-05-26",
-      "last_snapshot": "2026-09-15",
-      "verified": "2026-09-15"
+      "last_snapshot": "2026-11-13",
+      "verified": "2026-11-13"
     },
     {
       "tool": "Taskade",
       "slug": "taskade",
       "pricing_url": "https://www.taskade.com/pricing",
-      "confidence": "page-figure",
-      "free_tier": "Yes",
-      "starting_paid_price": "$10 a month (first paid tier, annual billing)",
-      "starting_paid_price_usd_month_normalised": 10,
+      "confidence": "verified",
+      "free_tier": "Yes, Free: no monthly AI credits",
+      "starting_paid_price": "$6 a month (Starter, yearly billing: $72 a year for 3 users, 10,000 AI credits a month)",
+      "starting_paid_price_usd_month_normalised": 6,
       "normalisation": "as published",
-      "billing_unit": "Seats and AI usage; top-up packs at $5 for 9,000 credits, $20 for 45,000 and $50 for 125,000",
-      "included_first_paid_plan": "Tiers at $10, $25, $100 and $250 a month on the page",
-      "last_price_change_month": "2026-09",
-      "snapshots": 32,
+      "billing_unit": "AI credits a month shared by the plan's users; auto top-up on every paid plan",
+      "included_first_paid_plan": "Pro $10 a month (10 users, 50,000 credits), Business $25 (unlimited users, 150,000), Max $100 (400,000), all on yearly billing; Enterprise is quote-only from 22 September 2026",
+      "last_price_change_month": "2026-11",
+      "snapshots": 41,
       "first_snapshot": "2024-01-03",
-      "last_snapshot": "2026-09-11",
-      "verified": "2026-09-15"
+      "last_snapshot": "2026-11-13",
+      "verified": "2026-11-13"
     },
     {
       "tool": "Bardeen",
@@ -256,27 +256,82 @@
       "snapshots": 18,
       "first_snapshot": "2024-01-09",
       "last_snapshot": "2025-11-12",
-      "verified": "2026-09-15"
+      "verified": "2026-11-13"
     },
     {
       "tool": "Gravity",
       "slug": "gravity",
       "pricing_url": "https://gravity.fast/pricing",
       "confidence": "verified",
-      "free_tier": "Yes, your first agent, no card",
-      "starting_paid_price": "$20 a month (Autopilot); INR 1,999 in India, Minipilot INR 399; private alpha, by application",
-      "starting_paid_price_usd_month_normalised": 20,
+      "free_tier": "Yes, Free at $0 with no card",
+      "starting_paid_price": "$15 a month (Mini Pilot); Free at $0 with no card; Auto Pilot $20 a month; Auto Pilot Max $100 a month; public beta, no waitlist",
+      "starting_paid_price_usd_month_normalised": 15,
       "normalisation": "as published",
-      "billing_unit": "Flat monthly plan with a lot of usage included; buy more usage if you run out",
-      "included_first_paid_plan": "A lot of usage; the agent is built and kept working by its builder",
-      "last_price_change_month": "2026-09",
-      "snapshots": 2,
+      "billing_unit": "Monthly subscription with usage included; buy more usage if you run out",
+      "included_first_paid_plan": "Free: no card, no automated agents. Mini Pilot: one automated agent. Auto Pilot: unlimited automated agents. Auto Pilot Max: the most usage",
+      "last_price_change_month": "2026-11",
+      "snapshots": 11,
       "first_snapshot": "2026-09-11",
-      "last_snapshot": "2026-09-15",
-      "verified": "2026-09-15"
+      "last_snapshot": "2026-11-13",
+      "verified": "2026-11-13"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-03",
+      "tool": "Taskade",
+      "change": "added a Starter plan at $6 a month on yearly billing ($72 a year for 3 users, 10,000 AI credits a month) below Pro at $10, so the cheapest paid plan fell from $10 to $6 a month; Pro, Business and Max are unchanged at $10, $25 and $100, per our 3 November snapshot and a re-read on 13 November",
+      "source": "https://www.taskade.com/pricing"
+    },
+    {
+      "date": "2026-10-06",
+      "tool": "Pipedream",
+      "change": "replaced its $29, $49 and $99 a month tiers with Free for development, Startup at $99 a month on annual billing ($150 monthly) with 10,000 usage credits and 100 external users included, and a custom Business plan; first seen in our 6 October snapshot (our 15 September read still showed the old tiers) and re-read on 13 November",
+      "source": "https://pipedream.com/pricing"
+    },
+    {
+      "date": "2026-10-27",
+      "tool": "Lindy",
+      "change": "the scripted read again saw the $29.99 Team version (3,000 credits) while a browser load of the pricing page showed $49.99 a month for 5,000 credits each, top-ups $10 per 1,000 credits, so the page serves both versions to different loads, as on 10 October; the starting price a browser visitor sees is unchanged, per our 27 October snapshot",
+      "source": "https://www.lindy.ai/pricing"
+    },
+    {
+      "date": "2026-10-22",
+      "tool": "Lindy",
+      "change": "the $29.99 Team version and its 3,000-credit tier no longer appear anywhere on the page; Team is $49.99 per user a month for 5,000 credits, top-ups $10 per 1,000 credits (starting price unchanged from 13 Oct), per our 22 October snapshot",
+      "source": "https://www.lindy.ai/pricing"
+    },
+    {
+      "date": "2026-10-22",
+      "tool": "Taskade",
+      "change": "the $5, $20 and $50 top-up packs are no longer listed; the page now describes auto top-up of up to $1,000 at a time, and shows yearly totals ($120, $300, $1,200, $3,000) under the $10, $25, $100 and $250 monthly-equivalent prices, per our 22 October snapshot",
+      "source": "https://www.taskade.com/pricing"
+    },
+    {
+      "date": "2026-10-13",
+      "tool": "Lindy",
+      "change": "the page served one Team card on both the scripted read and a browser load: $49.99 a month per user for 5,000 credits, with Free ($50 in credits, 7 days) and Enterprise; the $29.99 for 3,000 credits version seen on 10 October was not served",
+      "source": "https://www.lindy.ai/pricing"
+    },
+    {
+      "date": "2026-10-10",
+      "tool": "Lindy",
+      "change": "the Plus, Pro and Max plan names are gone from the page; one paid card, Team, served two versions across 13 loads: $29.99 for 3,000 credits per user, or $49.99 with a credit dropdown defaulting to 5,000. The former $99.99 (15,000) and $199.99 (35,000) price points now sit as dropdown steps on the Team card",
+      "source": "https://www.lindy.ai/pricing"
+    },
+    {
+      "date": "2026-10-06",
+      "tool": "Lindy",
+      "change": "free trial restated as $50 in free credits that last 7 days with no card; paid plans unchanged at $29.99, $99.99 and $199.99 a month per user (3,000, 15,000 and 35,000 credits). The pricing page now labels the paid tier Team rather than Plus and lists Free, Team and Enterprise cards",
+      "source": "https://www.lindy.ai/pricing"
+    },
+    {
+      "date": "2026-09-22",
+      "tool": "Taskade",
+      "change": "Enterprise lost its published price: the card read $250 a month with a self-serve Get Enterprise button on 1 September 2026 and now reads Custom with a Contact sales button. Free, Pro, Business and Max are unchanged at $0, $10, $25 and $100 a month on annual billing. The page's own Offer structured data still carried the old $250 a month ($3,000 a year) figure when we checked",
+      "source": "https://web.archive.org/web/20260901161346/https://www.taskade.com/pricing",
+      "post": "/blog/taskade-pricing-change-september-2026/"
+    },
     {
       "date": "2026-09-14",
       "tool": "Relay.app",
